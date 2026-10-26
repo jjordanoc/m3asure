@@ -1,0 +1,2102 @@
+{
+  "airplane/airplane_007": {
+    "trial": "airplane/airplane_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1926351636648178
+    },
+    "met3r_with_oddity": {
+      "score": 0.20000074803829193
+    }
+  },
+  "airplane/airplane_001": {
+    "trial": "airplane/airplane_001",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.20530276000499725
+    },
+    "met3r_with_oddity": {
+      "score": 0.173349067568779
+    }
+  },
+  "apple/apple_022": {
+    "trial": "apple/apple_022",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.23789000511169434
+    },
+    "met3r_with_oddity": {
+      "score": 0.23857900500297546
+    }
+  },
+  "apple/apple_019": {
+    "trial": "apple/apple_019",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.11459030210971832
+    },
+    "met3r_with_oddity": {
+      "score": 0.18933914601802826
+    }
+  },
+  "ball/ball_014": {
+    "trial": "ball/ball_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.30190137028694153
+    },
+    "met3r_with_oddity": {
+      "score": 0.27422401309013367
+    }
+  },
+  "ball/ball_008": {
+    "trial": "ball/ball_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2596186101436615
+    },
+    "met3r_with_oddity": {
+      "score": 0.26310232281684875
+    }
+  },
+  "banana/banana_028": {
+    "trial": "banana/banana_028",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.24122576415538788
+    },
+    "met3r_with_oddity": {
+      "score": 0.1943518966436386
+    }
+  },
+  "banana/banana_003": {
+    "trial": "banana/banana_003",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09341549873352051
+    },
+    "met3r_with_oddity": {
+      "score": 0.1251915693283081
+    }
+  },
+  "bicycle/bicycle_002": {
+    "trial": "bicycle/bicycle_002",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2050773948431015
+    },
+    "met3r_with_oddity": {
+      "score": 0.15510188043117523
+    }
+  },
+  "bicycle/bicycle_010": {
+    "trial": "bicycle/bicycle_010",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2144376039505005
+    },
+    "met3r_with_oddity": {
+      "score": 0.2451314926147461
+    }
+  },
+  "boat/boat_028": {
+    "trial": "boat/boat_028",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.16461138427257538
+    },
+    "met3r_with_oddity": {
+      "score": 0.1436847299337387
+    }
+  },
+  "boat/boat_003": {
+    "trial": "boat/boat_003",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1793207973241806
+    },
+    "met3r_with_oddity": {
+      "score": 0.21709619462490082
+    }
+  },
+  "bottle/bottle_004": {
+    "trial": "bottle/bottle_004",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.016995742917060852
+    },
+    "met3r_with_oddity": {
+      "score": 0.02461845986545086
+    }
+  },
+  "bottle/bottle_012": {
+    "trial": "bottle/bottle_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.01126986276358366
+    },
+    "met3r_with_oddity": {
+      "score": 0.056356847286224365
+    }
+  },
+  "bowl/bowl_007": {
+    "trial": "bowl/bowl_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.022175339981913567
+    },
+    "met3r_with_oddity": {
+      "score": 0.1265622079372406
+    }
+  },
+  "bowl/bowl_009": {
+    "trial": "bowl/bowl_009",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.05176185816526413
+    },
+    "met3r_with_oddity": {
+      "score": 0.12531082332134247
+    }
+  },
+  "bread/bread_032": {
+    "trial": "bread/bread_032",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.28383442759513855
+    },
+    "met3r_with_oddity": {
+      "score": 0.372389018535614
+    }
+  },
+  "bread/bread_001": {
+    "trial": "bread/bread_001",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07684221863746643
+    },
+    "met3r_with_oddity": {
+      "score": 0.21599650382995605
+    }
+  },
+  "bunny/bunny_019": {
+    "trial": "bunny/bunny_019",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1938314437866211
+    },
+    "met3r_with_oddity": {
+      "score": 0.17588207125663757
+    }
+  },
+  "bunny/bunny_006": {
+    "trial": "bunny/bunny_006",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.13255612552165985
+    },
+    "met3r_with_oddity": {
+      "score": 0.1363827884197235
+    }
+  },
+  "bus/bus_017": {
+    "trial": "bus/bus_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1754744052886963
+    },
+    "met3r_with_oddity": {
+      "score": 0.17827078700065613
+    }
+  },
+  "bus/bus_013": {
+    "trial": "bus/bus_013",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.19830147922039032
+    },
+    "met3r_with_oddity": {
+      "score": 0.20375412702560425
+    }
+  },
+  "butterfly/butterfly_007": {
+    "trial": "butterfly/butterfly_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18979936838150024
+    },
+    "met3r_with_oddity": {
+      "score": 0.19721242785453796
+    }
+  },
+  "butterfly/butterfly_014": {
+    "trial": "butterfly/butterfly_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.13227730989456177
+    },
+    "met3r_with_oddity": {
+      "score": 0.12072509527206421
+    }
+  },
+  "cake/cake_037": {
+    "trial": "cake/cake_037",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2276049256324768
+    },
+    "met3r_with_oddity": {
+      "score": 0.2622605562210083
+    }
+  },
+  "cake/cake_017": {
+    "trial": "cake/cake_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.3288726210594177
+    },
+    "met3r_with_oddity": {
+      "score": 0.31858834624290466
+    }
+  },
+  "candy/candy_051": {
+    "trial": "candy/candy_051",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.04241281375288963
+    },
+    "met3r_with_oddity": {
+      "score": 0.06235511228442192
+    }
+  },
+  "candy/candy_055": {
+    "trial": "candy/candy_055",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14430414140224457
+    },
+    "met3r_with_oddity": {
+      "score": 0.2360493242740631
+    }
+  },
+  "car/car_000": {
+    "trial": "car/car_000",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.16475580632686615
+    },
+    "met3r_with_oddity": {
+      "score": 0.1770445555448532
+    }
+  },
+  "car/car_024": {
+    "trial": "car/car_024",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.11599059402942657
+    },
+    "met3r_with_oddity": {
+      "score": 0.17513084411621094
+    }
+  },
+  "cat/cat_021": {
+    "trial": "cat/cat_021",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12184546887874603
+    },
+    "met3r_with_oddity": {
+      "score": 0.17902706563472748
+    }
+  },
+  "cat/cat_056": {
+    "trial": "cat/cat_056",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.3328070044517517
+    },
+    "met3r_with_oddity": {
+      "score": 0.36564743518829346
+    }
+  },
+  "cells_battery/cells_battery_021": {
+    "trial": "cells_battery/cells_battery_021",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.017826754599809647
+    },
+    "met3r_with_oddity": {
+      "score": 0.03524450957775116
+    }
+  },
+  "cells_battery/cells_battery_017": {
+    "trial": "cells_battery/cells_battery_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07858054339885712
+    },
+    "met3r_with_oddity": {
+      "score": 0.08115386217832565
+    }
+  },
+  "chair/chair_042": {
+    "trial": "chair/chair_042",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09151989221572876
+    },
+    "met3r_with_oddity": {
+      "score": 0.12834322452545166
+    }
+  },
+  "chair/chair_058": {
+    "trial": "chair/chair_058",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.16618995368480682
+    },
+    "met3r_with_oddity": {
+      "score": 0.15314368903636932
+    }
+  },
+  "chess_piece/chess_piece_026": {
+    "trial": "chess_piece/chess_piece_026",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.030298342928290367
+    },
+    "met3r_with_oddity": {
+      "score": 0.09629315137863159
+    }
+  },
+  "chess_piece/chess_piece_009": {
+    "trial": "chess_piece/chess_piece_009",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06809361279010773
+    },
+    "met3r_with_oddity": {
+      "score": 0.17666135728359222
+    }
+  },
+  "chicken/chicken_002": {
+    "trial": "chicken/chicken_002",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2025323212146759
+    },
+    "met3r_with_oddity": {
+      "score": 0.18645784258842468
+    }
+  },
+  "chicken/chicken_013": {
+    "trial": "chicken/chicken_013",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.19316744804382324
+    },
+    "met3r_with_oddity": {
+      "score": 0.18915438652038574
+    }
+  },
+  "closet/closet_001": {
+    "trial": "closet/closet_001",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09709733724594116
+    },
+    "met3r_with_oddity": {
+      "score": 0.15098772943019867
+    }
+  },
+  "closet/closet_005": {
+    "trial": "closet/closet_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09728328883647919
+    },
+    "met3r_with_oddity": {
+      "score": 0.12418316304683685
+    }
+  },
+  "coin/coin_022": {
+    "trial": "coin/coin_022",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.312497615814209
+    },
+    "met3r_with_oddity": {
+      "score": 0.3015950620174408
+    }
+  },
+  "coin/coin_016": {
+    "trial": "coin/coin_016",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.15432533621788025
+    },
+    "met3r_with_oddity": {
+      "score": 0.16935908794403076
+    }
+  },
+  "cookie/cookie_027": {
+    "trial": "cookie/cookie_027",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21734027564525604
+    },
+    "met3r_with_oddity": {
+      "score": 0.1609458029270172
+    }
+  },
+  "cookie/cookie_001": {
+    "trial": "cookie/cookie_001",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.03804692253470421
+    },
+    "met3r_with_oddity": {
+      "score": 0.08972334116697311
+    }
+  },
+  "cow/cow_017": {
+    "trial": "cow/cow_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2739688754081726
+    },
+    "met3r_with_oddity": {
+      "score": 0.283743679523468
+    }
+  },
+  "cow/cow_020": {
+    "trial": "cow/cow_020",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12300902605056763
+    },
+    "met3r_with_oddity": {
+      "score": 0.15179437398910522
+    }
+  },
+  "crab/crab_009": {
+    "trial": "crab/crab_009",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18368403613567352
+    },
+    "met3r_with_oddity": {
+      "score": 0.19581446051597595
+    }
+  },
+  "crab/crab_027": {
+    "trial": "crab/crab_027",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.25000298023223877
+    },
+    "met3r_with_oddity": {
+      "score": 0.25457045435905457
+    }
+  },
+  "cup/cup_006": {
+    "trial": "cup/cup_006",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2160317599773407
+    },
+    "met3r_with_oddity": {
+      "score": 0.2214866578578949
+    }
+  },
+  "cup/cup_036": {
+    "trial": "cup/cup_036",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18824605643749237
+    },
+    "met3r_with_oddity": {
+      "score": 0.17094206809997559
+    }
+  },
+  "cupcake/cupcake_011": {
+    "trial": "cupcake/cupcake_011",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07377246022224426
+    },
+    "met3r_with_oddity": {
+      "score": 0.12388023734092712
+    }
+  },
+  "cupcake/cupcake_022": {
+    "trial": "cupcake/cupcake_022",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18229970335960388
+    },
+    "met3r_with_oddity": {
+      "score": 0.21251580119132996
+    }
+  },
+  "deer_moose/deer_moose_046": {
+    "trial": "deer_moose/deer_moose_046",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.23904204368591309
+    },
+    "met3r_with_oddity": {
+      "score": 0.23354390263557434
+    }
+  },
+  "deer_moose/deer_moose_024": {
+    "trial": "deer_moose/deer_moose_024",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.19874654710292816
+    },
+    "met3r_with_oddity": {
+      "score": 0.18342040479183197
+    }
+  },
+  "dinosaur/dinosaur_008": {
+    "trial": "dinosaur/dinosaur_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1381211131811142
+    },
+    "met3r_with_oddity": {
+      "score": 0.13878695666790009
+    }
+  },
+  "dinosaur/dinosaur_005": {
+    "trial": "dinosaur/dinosaur_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18876203894615173
+    },
+    "met3r_with_oddity": {
+      "score": 0.20127224922180176
+    }
+  },
+  "dog/dog_088": {
+    "trial": "dog/dog_088",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.26114726066589355
+    },
+    "met3r_with_oddity": {
+      "score": 0.2884054183959961
+    }
+  },
+  "dog/dog_031": {
+    "trial": "dog/dog_031",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14493019878864288
+    },
+    "met3r_with_oddity": {
+      "score": 0.15331970155239105
+    }
+  },
+  "dolphin/dolphin_010": {
+    "trial": "dolphin/dolphin_010",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21749848127365112
+    },
+    "met3r_with_oddity": {
+      "score": 0.2040708363056183
+    }
+  },
+  "dolphin/dolphin_002": {
+    "trial": "dolphin/dolphin_002",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.15103697776794434
+    },
+    "met3r_with_oddity": {
+      "score": 0.1543034315109253
+    }
+  },
+  "donut/donut_015": {
+    "trial": "donut/donut_015",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09573426097631454
+    },
+    "met3r_with_oddity": {
+      "score": 0.12244188785552979
+    }
+  },
+  "donut/donut_007": {
+    "trial": "donut/donut_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.022961650043725967
+    },
+    "met3r_with_oddity": {
+      "score": 0.08778344094753265
+    }
+  },
+  "dragon/dragon_026": {
+    "trial": "dragon/dragon_026",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1738460659980774
+    },
+    "met3r_with_oddity": {
+      "score": 0.19575713574886322
+    }
+  },
+  "dragon/dragon_018": {
+    "trial": "dragon/dragon_018",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.20437303185462952
+    },
+    "met3r_with_oddity": {
+      "score": 0.17378190159797668
+    }
+  },
+  "drum/drum_014": {
+    "trial": "drum/drum_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.007267446257174015
+    },
+    "met3r_with_oddity": {
+      "score": 0.09257370233535767
+    }
+  },
+  "drum/drum_020": {
+    "trial": "drum/drum_020",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.11286427825689316
+    },
+    "met3r_with_oddity": {
+      "score": 0.15966835618019104
+    }
+  },
+  "elephant/elephant_024": {
+    "trial": "elephant/elephant_024",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.24260985851287842
+    },
+    "met3r_with_oddity": {
+      "score": 0.2780868411064148
+    }
+  },
+  "elephant/elephant_011": {
+    "trial": "elephant/elephant_011",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2742677628993988
+    },
+    "met3r_with_oddity": {
+      "score": 0.2654317021369934
+    }
+  },
+  "fan/fan_012": {
+    "trial": "fan/fan_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07471129298210144
+    },
+    "met3r_with_oddity": {
+      "score": 0.11039107292890549
+    }
+  },
+  "fan/fan_007": {
+    "trial": "fan/fan_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.011662334203720093
+    },
+    "met3r_with_oddity": {
+      "score": 0.0534137487411499
+    }
+  },
+  "fish/fish_017": {
+    "trial": "fish/fish_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.15314678847789764
+    },
+    "met3r_with_oddity": {
+      "score": 0.13909712433815002
+    }
+  },
+  "fish/fish_004": {
+    "trial": "fish/fish_004",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1755967140197754
+    },
+    "met3r_with_oddity": {
+      "score": 0.21530339121818542
+    }
+  },
+  "flower/flower_039": {
+    "trial": "flower/flower_039",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09530230611562729
+    },
+    "met3r_with_oddity": {
+      "score": 0.12859715521335602
+    }
+  },
+  "flower/flower_041": {
+    "trial": "flower/flower_041",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07929512858390808
+    },
+    "met3r_with_oddity": {
+      "score": 0.09919996559619904
+    }
+  },
+  "fox/fox_011": {
+    "trial": "fox/fox_011",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18757584691047668
+    },
+    "met3r_with_oddity": {
+      "score": 0.14503757655620575
+    }
+  },
+  "fox/fox_035": {
+    "trial": "fox/fox_035",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12147670984268188
+    },
+    "met3r_with_oddity": {
+      "score": 0.12030452489852905
+    }
+  },
+  "fridge/fridge_023": {
+    "trial": "fridge/fridge_023",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.04507313668727875
+    },
+    "met3r_with_oddity": {
+      "score": 0.04951336234807968
+    }
+  },
+  "fridge/fridge_007": {
+    "trial": "fridge/fridge_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1493130773305893
+    },
+    "met3r_with_oddity": {
+      "score": 0.16889993846416473
+    }
+  },
+  "fries/fries_002": {
+    "trial": "fries/fries_002",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.13473910093307495
+    },
+    "met3r_with_oddity": {
+      "score": 0.13545715808868408
+    }
+  },
+  "fries/fries_007": {
+    "trial": "fries/fries_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.10710775852203369
+    },
+    "met3r_with_oddity": {
+      "score": 0.10580961406230927
+    }
+  },
+  "frog/frog_024": {
+    "trial": "frog/frog_024",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.27663034200668335
+    },
+    "met3r_with_oddity": {
+      "score": 0.2281801700592041
+    }
+  },
+  "frog/frog_017": {
+    "trial": "frog/frog_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1242230236530304
+    },
+    "met3r_with_oddity": {
+      "score": 0.12037917971611023
+    }
+  },
+  "giraffe/giraffe_014": {
+    "trial": "giraffe/giraffe_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06653556227684021
+    },
+    "met3r_with_oddity": {
+      "score": 0.08217322826385498
+    }
+  },
+  "giraffe/giraffe_010": {
+    "trial": "giraffe/giraffe_010",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14803960919380188
+    },
+    "met3r_with_oddity": {
+      "score": 0.18844559788703918
+    }
+  },
+  "glass/glass_057": {
+    "trial": "glass/glass_057",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.006437517702579498
+    },
+    "met3r_with_oddity": {
+      "score": 0.0348082073032856
+    }
+  },
+  "glass/glass_047": {
+    "trial": "glass/glass_047",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.014777078293263912
+    },
+    "met3r_with_oddity": {
+      "score": 0.03503582626581192
+    }
+  },
+  "grapes/grapes_007": {
+    "trial": "grapes/grapes_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12893962860107422
+    },
+    "met3r_with_oddity": {
+      "score": 0.13298267126083374
+    }
+  },
+  "grapes/grapes_010": {
+    "trial": "grapes/grapes_010",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.20003525912761688
+    },
+    "met3r_with_oddity": {
+      "score": 0.21662637591362
+    }
+  },
+  "guitar/guitar_021": {
+    "trial": "guitar/guitar_021",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07951274514198303
+    },
+    "met3r_with_oddity": {
+      "score": 0.08357148617506027
+    }
+  },
+  "guitar/guitar_050": {
+    "trial": "guitar/guitar_050",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06004960834980011
+    },
+    "met3r_with_oddity": {
+      "score": 0.06857496500015259
+    }
+  },
+  "hamburger/hamburger_013": {
+    "trial": "hamburger/hamburger_013",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12769940495491028
+    },
+    "met3r_with_oddity": {
+      "score": 0.15360760688781738
+    }
+  },
+  "hamburger/hamburger_000": {
+    "trial": "hamburger/hamburger_000",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.08378297090530396
+    },
+    "met3r_with_oddity": {
+      "score": 0.11123332381248474
+    }
+  },
+  "hammer/hammer_030": {
+    "trial": "hammer/hammer_030",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.10621024668216705
+    },
+    "met3r_with_oddity": {
+      "score": 0.09130620956420898
+    }
+  },
+  "hammer/hammer_004": {
+    "trial": "hammer/hammer_004",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1579645276069641
+    },
+    "met3r_with_oddity": {
+      "score": 0.16721664369106293
+    }
+  },
+  "hat/hat_052": {
+    "trial": "hat/hat_052",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2720406949520111
+    },
+    "met3r_with_oddity": {
+      "score": 0.28699132800102234
+    }
+  },
+  "hat/hat_021": {
+    "trial": "hat/hat_021",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.31499624252319336
+    },
+    "met3r_with_oddity": {
+      "score": 0.33496254682540894
+    }
+  },
+  "helicopter/helicopter_012": {
+    "trial": "helicopter/helicopter_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.156212717294693
+    },
+    "met3r_with_oddity": {
+      "score": 0.23733465373516083
+    }
+  },
+  "helicopter/helicopter_008": {
+    "trial": "helicopter/helicopter_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.13748610019683838
+    },
+    "met3r_with_oddity": {
+      "score": 0.1438828408718109
+    }
+  },
+  "helmet/helmet_002": {
+    "trial": "helmet/helmet_002",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.24768273532390594
+    },
+    "met3r_with_oddity": {
+      "score": 0.2623274028301239
+    }
+  },
+  "helmet/helmet_006": {
+    "trial": "helmet/helmet_006",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.3002661466598511
+    },
+    "met3r_with_oddity": {
+      "score": 0.42267653346061707
+    }
+  },
+  "horse/horse_021": {
+    "trial": "horse/horse_021",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.23757192492485046
+    },
+    "met3r_with_oddity": {
+      "score": 0.23953735828399658
+    }
+  },
+  "horse/horse_014": {
+    "trial": "horse/horse_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21427331864833832
+    },
+    "met3r_with_oddity": {
+      "score": 0.16194893419742584
+    }
+  },
+  "ice_cream/ice_cream_032": {
+    "trial": "ice_cream/ice_cream_032",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09449686855077744
+    },
+    "met3r_with_oddity": {
+      "score": 0.08831619471311569
+    }
+  },
+  "ice_cream/ice_cream_026": {
+    "trial": "ice_cream/ice_cream_026",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.026279810816049576
+    },
+    "met3r_with_oddity": {
+      "score": 0.05989053100347519
+    }
+  },
+  "key/key_044": {
+    "trial": "key/key_044",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.0942109227180481
+    },
+    "met3r_with_oddity": {
+      "score": 0.07403072714805603
+    }
+  },
+  "key/key_031": {
+    "trial": "key/key_031",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07904772460460663
+    },
+    "met3r_with_oddity": {
+      "score": 0.0892815813422203
+    }
+  },
+  "keyboard/keyboard_012": {
+    "trial": "keyboard/keyboard_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1205243393778801
+    },
+    "met3r_with_oddity": {
+      "score": 0.12994326651096344
+    }
+  },
+  "keyboard/keyboard_019": {
+    "trial": "keyboard/keyboard_019",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14355337619781494
+    },
+    "met3r_with_oddity": {
+      "score": 0.15299320220947266
+    }
+  },
+  "knife/knife_008": {
+    "trial": "knife/knife_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.11022233963012695
+    },
+    "met3r_with_oddity": {
+      "score": 0.10937057435512543
+    }
+  },
+  "knife/knife_015": {
+    "trial": "knife/knife_015",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.10833823680877686
+    },
+    "met3r_with_oddity": {
+      "score": 0.10566871613264084
+    }
+  },
+  "ladder/ladder_051": {
+    "trial": "ladder/ladder_051",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.08848915994167328
+    },
+    "met3r_with_oddity": {
+      "score": 0.07850602269172668
+    }
+  },
+  "ladder/ladder_037": {
+    "trial": "ladder/ladder_037",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1232459768652916
+    },
+    "met3r_with_oddity": {
+      "score": 0.11420366168022156
+    }
+  },
+  "laptop/laptop_035": {
+    "trial": "laptop/laptop_035",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2940657436847687
+    },
+    "met3r_with_oddity": {
+      "score": 0.29611432552337646
+    }
+  },
+  "laptop/laptop_017": {
+    "trial": "laptop/laptop_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.25436297059059143
+    },
+    "met3r_with_oddity": {
+      "score": 0.25794538855552673
+    }
+  },
+  "light_bulb/light_bulb_017": {
+    "trial": "light_bulb/light_bulb_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06056111305952072
+    },
+    "met3r_with_oddity": {
+      "score": 0.06587541103363037
+    }
+  },
+  "light_bulb/light_bulb_012": {
+    "trial": "light_bulb/light_bulb_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.038819264620542526
+    },
+    "met3r_with_oddity": {
+      "score": 0.049652524292469025
+    }
+  },
+  "lion/lion_007": {
+    "trial": "lion/lion_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.08731962740421295
+    },
+    "met3r_with_oddity": {
+      "score": 0.11862115561962128
+    }
+  },
+  "lion/lion_010": {
+    "trial": "lion/lion_010",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.22808218002319336
+    },
+    "met3r_with_oddity": {
+      "score": 0.24008706212043762
+    }
+  },
+  "lizard/lizard_012": {
+    "trial": "lizard/lizard_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.17356054484844208
+    },
+    "met3r_with_oddity": {
+      "score": 0.15050655603408813
+    }
+  },
+  "lizard/lizard_011": {
+    "trial": "lizard/lizard_011",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12462230026721954
+    },
+    "met3r_with_oddity": {
+      "score": 0.12118420004844666
+    }
+  },
+  "marker/marker_008": {
+    "trial": "marker/marker_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.02563975751399994
+    },
+    "met3r_with_oddity": {
+      "score": 0.03454796224832535
+    }
+  },
+  "marker/marker_005": {
+    "trial": "marker/marker_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.03674037754535675
+    },
+    "met3r_with_oddity": {
+      "score": 0.04958637058734894
+    }
+  },
+  "microwave/microwave_016": {
+    "trial": "microwave/microwave_016",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.19252532720565796
+    },
+    "met3r_with_oddity": {
+      "score": 0.19488100707530975
+    }
+  },
+  "microwave/microwave_015": {
+    "trial": "microwave/microwave_015",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.17716258764266968
+    },
+    "met3r_with_oddity": {
+      "score": 0.21556448936462402
+    }
+  },
+  "monitor/monitor_005": {
+    "trial": "monitor/monitor_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1907263845205307
+    },
+    "met3r_with_oddity": {
+      "score": 0.22215673327445984
+    }
+  },
+  "monitor/monitor_049": {
+    "trial": "monitor/monitor_049",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.19598576426506042
+    },
+    "met3r_with_oddity": {
+      "score": 0.20639638602733612
+    }
+  },
+  "monkey/monkey_001": {
+    "trial": "monkey/monkey_001",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.15226462483406067
+    },
+    "met3r_with_oddity": {
+      "score": 0.14805004000663757
+    }
+  },
+  "monkey/monkey_013": {
+    "trial": "monkey/monkey_013",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14173488318920135
+    },
+    "met3r_with_oddity": {
+      "score": 0.14683878421783447
+    }
+  },
+  "motorcycle/motorcycle_003": {
+    "trial": "motorcycle/motorcycle_003",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.32867926359176636
+    },
+    "met3r_with_oddity": {
+      "score": 0.41933831572532654
+    }
+  },
+  "motorcycle/motorcycle_002": {
+    "trial": "motorcycle/motorcycle_002",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.22445283830165863
+    },
+    "met3r_with_oddity": {
+      "score": 0.21134573221206665
+    }
+  },
+  "mouse/mouse_020": {
+    "trial": "mouse/mouse_020",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12370910495519638
+    },
+    "met3r_with_oddity": {
+      "score": 0.23283430933952332
+    }
+  },
+  "mouse/mouse_005": {
+    "trial": "mouse/mouse_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18698954582214355
+    },
+    "met3r_with_oddity": {
+      "score": 0.2904084324836731
+    }
+  },
+  "mug/mug_088": {
+    "trial": "mug/mug_088",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2932069003582001
+    },
+    "met3r_with_oddity": {
+      "score": 0.31363409757614136
+    }
+  },
+  "mug/mug_055": {
+    "trial": "mug/mug_055",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14661765098571777
+    },
+    "met3r_with_oddity": {
+      "score": 0.22601120173931122
+    }
+  },
+  "mushroom/mushroom_020": {
+    "trial": "mushroom/mushroom_020",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14155015349388123
+    },
+    "met3r_with_oddity": {
+      "score": 0.1901247501373291
+    }
+  },
+  "mushroom/mushroom_003": {
+    "trial": "mushroom/mushroom_003",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.22896534204483032
+    },
+    "met3r_with_oddity": {
+      "score": 0.22985616326332092
+    }
+  },
+  "octopus/octopus_012": {
+    "trial": "octopus/octopus_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.17762160301208496
+    },
+    "met3r_with_oddity": {
+      "score": 0.20787736773490906
+    }
+  },
+  "octopus/octopus_019": {
+    "trial": "octopus/octopus_019",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.09795354306697845
+    },
+    "met3r_with_oddity": {
+      "score": 0.11976496875286102
+    }
+  },
+  "orange/orange_016": {
+    "trial": "orange/orange_016",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.16493797302246094
+    },
+    "met3r_with_oddity": {
+      "score": 0.17202356457710266
+    }
+  },
+  "orange/orange_018": {
+    "trial": "orange/orange_018",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07284794747829437
+    },
+    "met3r_with_oddity": {
+      "score": 0.07944637537002563
+    }
+  },
+  "panda/panda_011": {
+    "trial": "panda/panda_011",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1474277526140213
+    },
+    "met3r_with_oddity": {
+      "score": 0.19543349742889404
+    }
+  },
+  "panda/panda_020": {
+    "trial": "panda/panda_020",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18324723839759827
+    },
+    "met3r_with_oddity": {
+      "score": 0.22865203022956848
+    }
+  },
+  "pc_mouse/pc_mouse_013": {
+    "trial": "pc_mouse/pc_mouse_013",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2455603927373886
+    },
+    "met3r_with_oddity": {
+      "score": 0.234187513589859
+    }
+  },
+  "pc_mouse/pc_mouse_000": {
+    "trial": "pc_mouse/pc_mouse_000",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.3604629635810852
+    },
+    "met3r_with_oddity": {
+      "score": 0.4723592698574066
+    }
+  },
+  "pear/pear_003": {
+    "trial": "pear/pear_003",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.17861402034759521
+    },
+    "met3r_with_oddity": {
+      "score": 0.11875923722982407
+    }
+  },
+  "pear/pear_008": {
+    "trial": "pear/pear_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06259702146053314
+    },
+    "met3r_with_oddity": {
+      "score": 0.14346212148666382
+    }
+  },
+  "pen/pen_022": {
+    "trial": "pen/pen_022",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.015400945208966732
+    },
+    "met3r_with_oddity": {
+      "score": 0.022175420075654984
+    }
+  },
+  "pen/pen_007": {
+    "trial": "pen/pen_007",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.01187134813517332
+    },
+    "met3r_with_oddity": {
+      "score": 0.022149309515953064
+    }
+  },
+  "pencil/pencil_022": {
+    "trial": "pencil/pencil_022",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.010392802767455578
+    },
+    "met3r_with_oddity": {
+      "score": 0.016607392579317093
+    }
+  },
+  "pencil/pencil_031": {
+    "trial": "pencil/pencil_031",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.008353779092431068
+    },
+    "met3r_with_oddity": {
+      "score": 0.010607421398162842
+    }
+  },
+  "penguin/penguin_010": {
+    "trial": "penguin/penguin_010",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2381945699453354
+    },
+    "met3r_with_oddity": {
+      "score": 0.267840176820755
+    }
+  },
+  "penguin/penguin_029": {
+    "trial": "penguin/penguin_029",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.17147231101989746
+    },
+    "met3r_with_oddity": {
+      "score": 0.158647358417511
+    }
+  },
+  "phone/phone_000": {
+    "trial": "phone/phone_000",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.11034491658210754
+    },
+    "met3r_with_oddity": {
+      "score": 0.12244166433811188
+    }
+  },
+  "phone/phone_008": {
+    "trial": "phone/phone_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1154688224196434
+    },
+    "met3r_with_oddity": {
+      "score": 0.3363536298274994
+    }
+  },
+  "piano/piano_032": {
+    "trial": "piano/piano_032",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.3479236364364624
+    },
+    "met3r_with_oddity": {
+      "score": 0.34741342067718506
+    }
+  },
+  "piano/piano_011": {
+    "trial": "piano/piano_011",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.27911871671676636
+    },
+    "met3r_with_oddity": {
+      "score": 0.40434473752975464
+    }
+  },
+  "pig/pig_033": {
+    "trial": "pig/pig_033",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.4021640717983246
+    },
+    "met3r_with_oddity": {
+      "score": 0.45597800612449646
+    }
+  },
+  "pig/pig_006": {
+    "trial": "pig/pig_006",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2637214660644531
+    },
+    "met3r_with_oddity": {
+      "score": 0.28208690881729126
+    }
+  },
+  "pizza/pizza_020": {
+    "trial": "pizza/pizza_020",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.051626116037368774
+    },
+    "met3r_with_oddity": {
+      "score": 0.058693911880254745
+    }
+  },
+  "pizza/pizza_009": {
+    "trial": "pizza/pizza_009",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.05184812471270561
+    },
+    "met3r_with_oddity": {
+      "score": 0.1133841797709465
+    }
+  },
+  "plate/plate_040": {
+    "trial": "plate/plate_040",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.044439636170864105
+    },
+    "met3r_with_oddity": {
+      "score": 0.050166141241788864
+    }
+  },
+  "plate/plate_032": {
+    "trial": "plate/plate_032",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1629227101802826
+    },
+    "met3r_with_oddity": {
+      "score": 0.17174586653709412
+    }
+  },
+  "radio/radio_039": {
+    "trial": "radio/radio_039",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.32747939229011536
+    },
+    "met3r_with_oddity": {
+      "score": 0.2685043215751648
+    }
+  },
+  "radio/radio_012": {
+    "trial": "radio/radio_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.38427120447158813
+    },
+    "met3r_with_oddity": {
+      "score": 0.3259841501712799
+    }
+  },
+  "robot/robot_019": {
+    "trial": "robot/robot_019",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.08055056631565094
+    },
+    "met3r_with_oddity": {
+      "score": 0.08867108821868896
+    }
+  },
+  "robot/robot_047": {
+    "trial": "robot/robot_047",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.07679949700832367
+    },
+    "met3r_with_oddity": {
+      "score": 0.08723911643028259
+    }
+  },
+  "sandwich/sandwich_012": {
+    "trial": "sandwich/sandwich_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18727853894233704
+    },
+    "met3r_with_oddity": {
+      "score": 0.3083525598049164
+    }
+  },
+  "sandwich/sandwich_002": {
+    "trial": "sandwich/sandwich_002",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1809137463569641
+    },
+    "met3r_with_oddity": {
+      "score": 0.326249897480011
+    }
+  },
+  "saw/saw_018": {
+    "trial": "saw/saw_018",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.13923591375350952
+    },
+    "met3r_with_oddity": {
+      "score": 0.138255774974823
+    }
+  },
+  "saw/saw_017": {
+    "trial": "saw/saw_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.11756287515163422
+    },
+    "met3r_with_oddity": {
+      "score": 0.11977078020572662
+    }
+  },
+  "screwdriver/screwdriver_000": {
+    "trial": "screwdriver/screwdriver_000",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.15559479594230652
+    },
+    "met3r_with_oddity": {
+      "score": 0.10685853660106659
+    }
+  },
+  "screwdriver/screwdriver_043": {
+    "trial": "screwdriver/screwdriver_043",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1231628805398941
+    },
+    "met3r_with_oddity": {
+      "score": 0.09503206610679626
+    }
+  },
+  "shark/shark_010": {
+    "trial": "shark/shark_010",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.28352856636047363
+    },
+    "met3r_with_oddity": {
+      "score": 0.3069342374801636
+    }
+  },
+  "shark/shark_015": {
+    "trial": "shark/shark_015",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.26393771171569824
+    },
+    "met3r_with_oddity": {
+      "score": 0.24269476532936096
+    }
+  },
+  "sheep/sheep_001": {
+    "trial": "sheep/sheep_001",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21008633077144623
+    },
+    "met3r_with_oddity": {
+      "score": 0.2283325046300888
+    }
+  },
+  "sheep/sheep_008": {
+    "trial": "sheep/sheep_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.20958277583122253
+    },
+    "met3r_with_oddity": {
+      "score": 0.1925673931837082
+    }
+  },
+  "shoe/shoe_025": {
+    "trial": "shoe/shoe_025",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.37730929255485535
+    },
+    "met3r_with_oddity": {
+      "score": 0.31805917620658875
+    }
+  },
+  "shoe/shoe_021": {
+    "trial": "shoe/shoe_021",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.18011777102947235
+    },
+    "met3r_with_oddity": {
+      "score": 0.15461942553520203
+    }
+  },
+  "sink/sink_008": {
+    "trial": "sink/sink_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1533183753490448
+    },
+    "met3r_with_oddity": {
+      "score": 0.14410941302776337
+    }
+  },
+  "sink/sink_001": {
+    "trial": "sink/sink_001",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12033103406429291
+    },
+    "met3r_with_oddity": {
+      "score": 0.11461880803108215
+    }
+  },
+  "snake/snake_015": {
+    "trial": "snake/snake_015",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06707841157913208
+    },
+    "met3r_with_oddity": {
+      "score": 0.08033952116966248
+    }
+  },
+  "snake/snake_005": {
+    "trial": "snake/snake_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.16789841651916504
+    },
+    "met3r_with_oddity": {
+      "score": 0.19780418276786804
+    }
+  },
+  "sofa/sofa_005": {
+    "trial": "sofa/sofa_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.22765569388866425
+    },
+    "met3r_with_oddity": {
+      "score": 0.23928877711296082
+    }
+  },
+  "sofa/sofa_050": {
+    "trial": "sofa/sofa_050",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.19302420318126678
+    },
+    "met3r_with_oddity": {
+      "score": 0.22403156757354736
+    }
+  },
+  "spade/spade_032": {
+    "trial": "spade/spade_032",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.055104613304138184
+    },
+    "met3r_with_oddity": {
+      "score": 0.05679662153124809
+    }
+  },
+  "spade/spade_004": {
+    "trial": "spade/spade_004",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.061112552881240845
+    },
+    "met3r_with_oddity": {
+      "score": 0.06643266975879669
+    }
+  },
+  "stove/stove_025": {
+    "trial": "stove/stove_025",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.12989789247512817
+    },
+    "met3r_with_oddity": {
+      "score": 0.21149644255638123
+    }
+  },
+  "stove/stove_018": {
+    "trial": "stove/stove_018",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.10611443221569061
+    },
+    "met3r_with_oddity": {
+      "score": 0.2955625057220459
+    }
+  },
+  "submarine/submarine_004": {
+    "trial": "submarine/submarine_004",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1499127298593521
+    },
+    "met3r_with_oddity": {
+      "score": 0.1827978938817978
+    }
+  },
+  "submarine/submarine_017": {
+    "trial": "submarine/submarine_017",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.08886377513408661
+    },
+    "met3r_with_oddity": {
+      "score": 0.098541259765625
+    }
+  },
+  "toaster/toaster_015": {
+    "trial": "toaster/toaster_015",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21211378276348114
+    },
+    "met3r_with_oddity": {
+      "score": 0.27744171023368835
+    }
+  },
+  "toaster/toaster_005": {
+    "trial": "toaster/toaster_005",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.16511863470077515
+    },
+    "met3r_with_oddity": {
+      "score": 0.18676915764808655
+    }
+  },
+  "tractor/tractor_008": {
+    "trial": "tractor/tractor_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.25939249992370605
+    },
+    "met3r_with_oddity": {
+      "score": 0.285543292760849
+    }
+  },
+  "tractor/tractor_015": {
+    "trial": "tractor/tractor_015",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21836888790130615
+    },
+    "met3r_with_oddity": {
+      "score": 0.22894972562789917
+    }
+  },
+  "train/train_020": {
+    "trial": "train/train_020",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.15133528411388397
+    },
+    "met3r_with_oddity": {
+      "score": 0.17555171251296997
+    }
+  },
+  "train/train_014": {
+    "trial": "train/train_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.19411377608776093
+    },
+    "met3r_with_oddity": {
+      "score": 0.20748302340507507
+    }
+  },
+  "trashcan/trashcan_014": {
+    "trial": "trashcan/trashcan_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.2795451283454895
+    },
+    "met3r_with_oddity": {
+      "score": 0.39033830165863037
+    }
+  },
+  "trashcan/trashcan_035": {
+    "trial": "trashcan/trashcan_035",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.23726896941661835
+    },
+    "met3r_with_oddity": {
+      "score": 0.21020285785198212
+    }
+  },
+  "tree/tree_055": {
+    "trial": "tree/tree_055",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.14792446792125702
+    },
+    "met3r_with_oddity": {
+      "score": 0.1241208165884018
+    }
+  },
+  "tree/tree_053": {
+    "trial": "tree/tree_053",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.08545787632465363
+    },
+    "met3r_with_oddity": {
+      "score": 0.09955477714538574
+    }
+  },
+  "truck/truck_012": {
+    "trial": "truck/truck_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21071568131446838
+    },
+    "met3r_with_oddity": {
+      "score": 0.21314935386180878
+    }
+  },
+  "truck/truck_019": {
+    "trial": "truck/truck_019",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21468858420848846
+    },
+    "met3r_with_oddity": {
+      "score": 0.21391896903514862
+    }
+  },
+  "tv/tv_012": {
+    "trial": "tv/tv_012",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.1759241670370102
+    },
+    "met3r_with_oddity": {
+      "score": 0.17341727018356323
+    }
+  },
+  "tv/tv_011": {
+    "trial": "tv/tv_011",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21256163716316223
+    },
+    "met3r_with_oddity": {
+      "score": 0.21321527659893036
+    }
+  },
+  "violin/violin_014": {
+    "trial": "violin/violin_014",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06783036887645721
+    },
+    "met3r_with_oddity": {
+      "score": 0.06963876634836197
+    }
+  },
+  "violin/violin_016": {
+    "trial": "violin/violin_016",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.06654062867164612
+    },
+    "met3r_with_oddity": {
+      "score": 0.07083377242088318
+    }
+  },
+  "whale/whale_031": {
+    "trial": "whale/whale_031",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.17449067533016205
+    },
+    "met3r_with_oddity": {
+      "score": 0.17149615287780762
+    }
+  },
+  "whale/whale_008": {
+    "trial": "whale/whale_008",
+    "dataset": "adv_toys4k",
+    "met3r_without_oddity": {
+      "score": 0.21934020519256592
+    },
+    "met3r_with_oddity": {
+      "score": 0.283473938703537
+    }
+  }
+}

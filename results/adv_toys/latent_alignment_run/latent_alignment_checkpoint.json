@@ -1,0 +1,2102 @@
+{
+  "airplane/airplane_007": {
+    "trial": "airplane/airplane_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.682056188583374
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.206221342086792
+    }
+  },
+  "airplane/airplane_001": {
+    "trial": "airplane/airplane_001",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.9842529296875
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.9790595769882202
+    }
+  },
+  "apple/apple_022": {
+    "trial": "apple/apple_022",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.497498035430908
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.316060781478882
+    }
+  },
+  "apple/apple_019": {
+    "trial": "apple/apple_019",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.7508599758148193
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.733675003051758
+    }
+  },
+  "ball/ball_014": {
+    "trial": "ball/ball_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.798325538635254
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.4850387573242188
+    }
+  },
+  "ball/ball_008": {
+    "trial": "ball/ball_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.6129417419433594
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.75406014919281
+    }
+  },
+  "banana/banana_028": {
+    "trial": "banana/banana_028",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.7307676076889038
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7602709531784058
+    }
+  },
+  "banana/banana_003": {
+    "trial": "banana/banana_003",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.3124618530273438
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.0830471515655518
+    }
+  },
+  "bicycle/bicycle_002": {
+    "trial": "bicycle/bicycle_002",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.7862329483032227
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5367841720581055
+    }
+  },
+  "bicycle/bicycle_010": {
+    "trial": "bicycle/bicycle_010",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.2506874799728394
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3468174934387207
+    }
+  },
+  "boat/boat_028": {
+    "trial": "boat/boat_028",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.8305734395980835
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.5995654463768005
+    }
+  },
+  "boat/boat_003": {
+    "trial": "boat/boat_003",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.019038200378418
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.7512440085411072
+    }
+  },
+  "bottle/bottle_004": {
+    "trial": "bottle/bottle_004",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1601710319519043
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.4013872146606445
+    }
+  },
+  "bottle/bottle_012": {
+    "trial": "bottle/bottle_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.13790225982666
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.4532731771469116
+    }
+  },
+  "bowl/bowl_007": {
+    "trial": "bowl/bowl_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.463287115097046
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.8997066020965576
+    }
+  },
+  "bowl/bowl_009": {
+    "trial": "bowl/bowl_009",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3322181701660156
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.824347734451294
+    }
+  },
+  "bread/bread_032": {
+    "trial": "bread/bread_032",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.246065378189087
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.9074565172195435
+    }
+  },
+  "bread/bread_001": {
+    "trial": "bread/bread_001",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.9934241771698
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.905484199523926
+    }
+  },
+  "bunny/bunny_019": {
+    "trial": "bunny/bunny_019",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.4380276203155518
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.762945532798767
+    }
+  },
+  "bunny/bunny_006": {
+    "trial": "bunny/bunny_006",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5361509323120117
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.76328706741333
+    }
+  },
+  "bus/bus_017": {
+    "trial": "bus/bus_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.900214195251465
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.472527027130127
+    }
+  },
+  "bus/bus_013": {
+    "trial": "bus/bus_013",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8447682857513428
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.0712475776672363
+    }
+  },
+  "butterfly/butterfly_007": {
+    "trial": "butterfly/butterfly_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.4452710151672363
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.766169309616089
+    }
+  },
+  "butterfly/butterfly_014": {
+    "trial": "butterfly/butterfly_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": -0.22920171916484833
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": -0.16110460460186005
+    }
+  },
+  "cake/cake_037": {
+    "trial": "cake/cake_037",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5659985542297363
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.308652877807617
+    }
+  },
+  "cake/cake_017": {
+    "trial": "cake/cake_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1073555946350098
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0949790477752686
+    }
+  },
+  "candy/candy_051": {
+    "trial": "candy/candy_051",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.5204315185546875
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5100414752960205
+    }
+  },
+  "candy/candy_055": {
+    "trial": "candy/candy_055",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3265833854675293
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0952556133270264
+    }
+  },
+  "car/car_000": {
+    "trial": "car/car_000",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.533599376678467
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.8931212425231934
+    }
+  },
+  "car/car_024": {
+    "trial": "car/car_024",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5678300857543945
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5837070941925049
+    }
+  },
+  "cat/cat_021": {
+    "trial": "cat/cat_021",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.2417802810668945
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5876907110214233
+    }
+  },
+  "cat/cat_056": {
+    "trial": "cat/cat_056",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.3090438842773438
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3351678848266602
+    }
+  },
+  "cells_battery/cells_battery_021": {
+    "trial": "cells_battery/cells_battery_021",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3463692665100098
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.3356289863586426
+    }
+  },
+  "cells_battery/cells_battery_017": {
+    "trial": "cells_battery/cells_battery_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.596889019012451
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.4424636363983154
+    }
+  },
+  "chair/chair_042": {
+    "trial": "chair/chair_042",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.810060977935791
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.974240779876709
+    }
+  },
+  "chair/chair_058": {
+    "trial": "chair/chair_058",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.9448046684265137
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.5654125213623047
+    }
+  },
+  "chess_piece/chess_piece_026": {
+    "trial": "chess_piece/chess_piece_026",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.0581555366516113
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.3419291973114014
+    }
+  },
+  "chess_piece/chess_piece_009": {
+    "trial": "chess_piece/chess_piece_009",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.387737989425659
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.92142653465271
+    }
+  },
+  "chicken/chicken_002": {
+    "trial": "chicken/chicken_002",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.9124001264572144
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.6839381456375122
+    }
+  },
+  "chicken/chicken_013": {
+    "trial": "chicken/chicken_013",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.0163254737854004
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.9638354778289795
+    }
+  },
+  "closet/closet_001": {
+    "trial": "closet/closet_001",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.5060207843780518
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.350252389907837
+    }
+  },
+  "closet/closet_005": {
+    "trial": "closet/closet_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.256585121154785
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.438188314437866
+    }
+  },
+  "coin/coin_022": {
+    "trial": "coin/coin_022",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.8473427295684814
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.294610857963562
+    }
+  },
+  "coin/coin_016": {
+    "trial": "coin/coin_016",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.2095937728881836
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.4317210912704468
+    }
+  },
+  "cookie/cookie_027": {
+    "trial": "cookie/cookie_027",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.9089083671569824
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.383620500564575
+    }
+  },
+  "cookie/cookie_001": {
+    "trial": "cookie/cookie_001",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.498431921005249
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7857387065887451
+    }
+  },
+  "cow/cow_017": {
+    "trial": "cow/cow_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.299259901046753
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.0467631816864014
+    }
+  },
+  "cow/cow_020": {
+    "trial": "cow/cow_020",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.97485613822937
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7179120779037476
+    }
+  },
+  "crab/crab_009": {
+    "trial": "crab/crab_009",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.81325364112854
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.4570283889770508
+    }
+  },
+  "crab/crab_027": {
+    "trial": "crab/crab_027",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.0552268028259277
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3810380697250366
+    }
+  },
+  "cup/cup_006": {
+    "trial": "cup/cup_006",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.669774055480957
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.8430657386779785
+    }
+  },
+  "cup/cup_036": {
+    "trial": "cup/cup_036",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.719308853149414
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.9507014751434326
+    }
+  },
+  "cupcake/cupcake_011": {
+    "trial": "cupcake/cupcake_011",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.45499587059021
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.4856500625610352
+    }
+  },
+  "cupcake/cupcake_022": {
+    "trial": "cupcake/cupcake_022",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5951595306396484
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.802182197570801
+    }
+  },
+  "deer_moose/deer_moose_046": {
+    "trial": "deer_moose/deer_moose_046",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.7729063034057617
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.412571668624878
+    }
+  },
+  "deer_moose/deer_moose_024": {
+    "trial": "deer_moose/deer_moose_024",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.8458268642425537
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.491624355316162
+    }
+  },
+  "dinosaur/dinosaur_008": {
+    "trial": "dinosaur/dinosaur_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 0.6938885450363159
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.8149876594543457
+    }
+  },
+  "dinosaur/dinosaur_005": {
+    "trial": "dinosaur/dinosaur_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3470358848571777
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.355295181274414
+    }
+  },
+  "dog/dog_088": {
+    "trial": "dog/dog_088",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.496175527572632
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.6106462478637695
+    }
+  },
+  "dog/dog_031": {
+    "trial": "dog/dog_031",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.1230292320251465
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.6144713163375854
+    }
+  },
+  "dolphin/dolphin_010": {
+    "trial": "dolphin/dolphin_010",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.9891078472137451
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.690157413482666
+    }
+  },
+  "dolphin/dolphin_002": {
+    "trial": "dolphin/dolphin_002",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.096069812774658
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.6216009855270386
+    }
+  },
+  "donut/donut_015": {
+    "trial": "donut/donut_015",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8205528259277344
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.067530393600464
+    }
+  },
+  "donut/donut_007": {
+    "trial": "donut/donut_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.452207088470459
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.6573402881622314
+    }
+  },
+  "dragon/dragon_026": {
+    "trial": "dragon/dragon_026",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 0.9628388285636902
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.0537162646651268
+    }
+  },
+  "dragon/dragon_018": {
+    "trial": "dragon/dragon_018",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": -1.3511111736297607
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": -0.6582305431365967
+    }
+  },
+  "drum/drum_014": {
+    "trial": "drum/drum_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.4628207683563232
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5687650442123413
+    }
+  },
+  "drum/drum_020": {
+    "trial": "drum/drum_020",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.805920362472534
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.4904417991638184
+    }
+  },
+  "elephant/elephant_024": {
+    "trial": "elephant/elephant_024",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5902628898620605
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5425705909729004
+    }
+  },
+  "elephant/elephant_011": {
+    "trial": "elephant/elephant_011",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.8200111389160156
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.2971651554107666
+    }
+  },
+  "fan/fan_012": {
+    "trial": "fan/fan_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.7472991943359375
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.9062718152999878
+    }
+  },
+  "fan/fan_007": {
+    "trial": "fan/fan_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.0334839820861816
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.5652710199356079
+    }
+  },
+  "fish/fish_017": {
+    "trial": "fish/fish_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.501391887664795
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.8811349868774414
+    }
+  },
+  "fish/fish_004": {
+    "trial": "fish/fish_004",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.8424791097640991
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.664791464805603
+    }
+  },
+  "flower/flower_039": {
+    "trial": "flower/flower_039",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.733548879623413
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5952603816986084
+    }
+  },
+  "flower/flower_041": {
+    "trial": "flower/flower_041",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": -0.2816076874732971
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": -1.3184223175048828
+    }
+  },
+  "fox/fox_011": {
+    "trial": "fox/fox_011",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.2130136489868164
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.6590545177459717
+    }
+  },
+  "fox/fox_035": {
+    "trial": "fox/fox_035",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.7454090118408203
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.8336210250854492
+    }
+  },
+  "fridge/fridge_023": {
+    "trial": "fridge/fridge_023",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.2636303901672363
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.3960063457489014
+    }
+  },
+  "fridge/fridge_007": {
+    "trial": "fridge/fridge_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 4.110845565795898
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.7890686988830566
+    }
+  },
+  "fries/fries_002": {
+    "trial": "fries/fries_002",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5311365127563477
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.1282920837402344
+    }
+  },
+  "fries/fries_007": {
+    "trial": "fries/fries_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.0709595680236816
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.066666841506958
+    }
+  },
+  "frog/frog_024": {
+    "trial": "frog/frog_024",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.6645634174346924
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0198864936828613
+    }
+  },
+  "frog/frog_017": {
+    "trial": "frog/frog_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.57346773147583
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7245137691497803
+    }
+  },
+  "giraffe/giraffe_014": {
+    "trial": "giraffe/giraffe_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.414548397064209
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5357983112335205
+    }
+  },
+  "giraffe/giraffe_010": {
+    "trial": "giraffe/giraffe_010",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.2120368480682373
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.224940776824951
+    }
+  },
+  "glass/glass_057": {
+    "trial": "glass/glass_057",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.3919458389282227
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.6188639402389526
+    }
+  },
+  "glass/glass_047": {
+    "trial": "glass/glass_047",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.0538736581802368
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.1377384662628174
+    }
+  },
+  "grapes/grapes_007": {
+    "trial": "grapes/grapes_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.253385066986084
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.2335364818572998
+    }
+  },
+  "grapes/grapes_010": {
+    "trial": "grapes/grapes_010",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.700482130050659
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7051870822906494
+    }
+  },
+  "guitar/guitar_021": {
+    "trial": "guitar/guitar_021",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.8974978923797607
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.449869155883789
+    }
+  },
+  "guitar/guitar_050": {
+    "trial": "guitar/guitar_050",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.6749024391174316
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.291642665863037
+    }
+  },
+  "hamburger/hamburger_013": {
+    "trial": "hamburger/hamburger_013",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.499886989593506
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.816110610961914
+    }
+  },
+  "hamburger/hamburger_000": {
+    "trial": "hamburger/hamburger_000",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.4720962047576904
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.9333322048187256
+    }
+  },
+  "hammer/hammer_030": {
+    "trial": "hammer/hammer_030",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.696143627166748
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.857825994491577
+    }
+  },
+  "hammer/hammer_004": {
+    "trial": "hammer/hammer_004",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.6418464183807373
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.924600601196289
+    }
+  },
+  "hat/hat_052": {
+    "trial": "hat/hat_052",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.1433238983154297
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.2363243103027344
+    }
+  },
+  "hat/hat_021": {
+    "trial": "hat/hat_021",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.072162628173828
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5158346891403198
+    }
+  },
+  "helicopter/helicopter_012": {
+    "trial": "helicopter/helicopter_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.2261264324188232
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.19533634185791
+    }
+  },
+  "helicopter/helicopter_008": {
+    "trial": "helicopter/helicopter_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.3071749210357666
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.7715152502059937
+    }
+  },
+  "helmet/helmet_002": {
+    "trial": "helmet/helmet_002",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.6251847743988037
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.8921828269958496
+    }
+  },
+  "helmet/helmet_006": {
+    "trial": "helmet/helmet_006",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.4661128520965576
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.8492664098739624
+    }
+  },
+  "horse/horse_021": {
+    "trial": "horse/horse_021",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.575441837310791
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.5094103813171387
+    }
+  },
+  "horse/horse_014": {
+    "trial": "horse/horse_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5223023891448975
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.3125193119049072
+    }
+  },
+  "ice_cream/ice_cream_032": {
+    "trial": "ice_cream/ice_cream_032",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5949630737304688
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.420194625854492
+    }
+  },
+  "ice_cream/ice_cream_026": {
+    "trial": "ice_cream/ice_cream_026",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.594062328338623
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.286973476409912
+    }
+  },
+  "key/key_044": {
+    "trial": "key/key_044",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 0.6731752753257751
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.969307541847229
+    }
+  },
+  "key/key_031": {
+    "trial": "key/key_031",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.410943031311035
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.5848278999328613
+    }
+  },
+  "keyboard/keyboard_012": {
+    "trial": "keyboard/keyboard_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.6151397228240967
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.2795066833496094
+    }
+  },
+  "keyboard/keyboard_019": {
+    "trial": "keyboard/keyboard_019",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3842685222625732
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.113393783569336
+    }
+  },
+  "knife/knife_008": {
+    "trial": "knife/knife_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": -0.11230672895908356
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.18385404348373413
+    }
+  },
+  "knife/knife_015": {
+    "trial": "knife/knife_015",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.906774878501892
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3830606937408447
+    }
+  },
+  "ladder/ladder_051": {
+    "trial": "ladder/ladder_051",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 0.6959429979324341
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.7593908309936523
+    }
+  },
+  "ladder/ladder_037": {
+    "trial": "ladder/ladder_037",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.705512762069702
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.9259442090988159
+    }
+  },
+  "laptop/laptop_035": {
+    "trial": "laptop/laptop_035",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.041444778442383
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.297469139099121
+    }
+  },
+  "laptop/laptop_017": {
+    "trial": "laptop/laptop_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.0287604331970215
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.9692919254302979
+    }
+  },
+  "light_bulb/light_bulb_017": {
+    "trial": "light_bulb/light_bulb_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.90014910697937
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.936633586883545
+    }
+  },
+  "light_bulb/light_bulb_012": {
+    "trial": "light_bulb/light_bulb_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3551928997039795
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7282178401947021
+    }
+  },
+  "lion/lion_007": {
+    "trial": "lion/lion_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.2785680294036865
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.010109782218933
+    }
+  },
+  "lion/lion_010": {
+    "trial": "lion/lion_010",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3411307334899902
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7884153127670288
+    }
+  },
+  "lizard/lizard_012": {
+    "trial": "lizard/lizard_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.183342456817627
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7762359380722046
+    }
+  },
+  "lizard/lizard_011": {
+    "trial": "lizard/lizard_011",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.568922996520996
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.9641317129135132
+    }
+  },
+  "marker/marker_008": {
+    "trial": "marker/marker_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.9602627754211426
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.0524959564208984
+    }
+  },
+  "marker/marker_005": {
+    "trial": "marker/marker_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3307111263275146
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.296037435531616
+    }
+  },
+  "microwave/microwave_016": {
+    "trial": "microwave/microwave_016",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8691468238830566
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.724367618560791
+    }
+  },
+  "microwave/microwave_015": {
+    "trial": "microwave/microwave_015",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.767688274383545
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.4596610069274902
+    }
+  },
+  "monitor/monitor_005": {
+    "trial": "monitor/monitor_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.0012805461883545
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.0863280296325684
+    }
+  },
+  "monitor/monitor_049": {
+    "trial": "monitor/monitor_049",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.9328898191452026
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0446815490722656
+    }
+  },
+  "monkey/monkey_001": {
+    "trial": "monkey/monkey_001",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.9211668968200684
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.4050034284591675
+    }
+  },
+  "monkey/monkey_013": {
+    "trial": "monkey/monkey_013",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.6942933797836304
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.2326964139938354
+    }
+  },
+  "motorcycle/motorcycle_003": {
+    "trial": "motorcycle/motorcycle_003",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.9494235515594482
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.8120464086532593
+    }
+  },
+  "motorcycle/motorcycle_002": {
+    "trial": "motorcycle/motorcycle_002",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.71089506149292
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.9784139394760132
+    }
+  },
+  "mouse/mouse_020": {
+    "trial": "mouse/mouse_020",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.663680076599121
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.6121362447738647
+    }
+  },
+  "mouse/mouse_005": {
+    "trial": "mouse/mouse_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.1121811866760254
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.1064505577087402
+    }
+  },
+  "mug/mug_088": {
+    "trial": "mug/mug_088",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.542156219482422
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.2179200649261475
+    }
+  },
+  "mug/mug_055": {
+    "trial": "mug/mug_055",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8866209983825684
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.3252615928649902
+    }
+  },
+  "mushroom/mushroom_020": {
+    "trial": "mushroom/mushroom_020",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.26875638961792
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5843628644943237
+    }
+  },
+  "mushroom/mushroom_003": {
+    "trial": "mushroom/mushroom_003",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5224337577819824
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5505590438842773
+    }
+  },
+  "octopus/octopus_012": {
+    "trial": "octopus/octopus_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.9671132564544678
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.507484793663025
+    }
+  },
+  "octopus/octopus_019": {
+    "trial": "octopus/octopus_019",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.9651949405670166
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.1542431116104126
+    }
+  },
+  "orange/orange_016": {
+    "trial": "orange/orange_016",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.9651715755462646
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.845503807067871
+    }
+  },
+  "orange/orange_018": {
+    "trial": "orange/orange_018",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1506545543670654
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.737123489379883
+    }
+  },
+  "panda/panda_011": {
+    "trial": "panda/panda_011",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.6574602127075195
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.65634822845459
+    }
+  },
+  "panda/panda_020": {
+    "trial": "panda/panda_020",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.38627028465271
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.030897855758667
+    }
+  },
+  "pc_mouse/pc_mouse_013": {
+    "trial": "pc_mouse/pc_mouse_013",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.652796745300293
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.7634944915771484
+    }
+  },
+  "pc_mouse/pc_mouse_000": {
+    "trial": "pc_mouse/pc_mouse_000",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.7679214477539062
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.8654515743255615
+    }
+  },
+  "pear/pear_003": {
+    "trial": "pear/pear_003",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.897542953491211
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.3656649589538574
+    }
+  },
+  "pear/pear_008": {
+    "trial": "pear/pear_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1125407218933105
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.5930163860321045
+    }
+  },
+  "pen/pen_022": {
+    "trial": "pen/pen_022",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.686683416366577
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3385767936706543
+    }
+  },
+  "pen/pen_007": {
+    "trial": "pen/pen_007",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.8515520095825195
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3513081073760986
+    }
+  },
+  "pencil/pencil_022": {
+    "trial": "pencil/pencil_022",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.959074020385742
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.070042371749878
+    }
+  },
+  "pencil/pencil_031": {
+    "trial": "pencil/pencil_031",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.871886730194092
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.2433319091796875
+    }
+  },
+  "penguin/penguin_010": {
+    "trial": "penguin/penguin_010",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.000980854034424
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.634950637817383
+    }
+  },
+  "penguin/penguin_029": {
+    "trial": "penguin/penguin_029",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.7333312034606934
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.0890512466430664
+    }
+  },
+  "phone/phone_000": {
+    "trial": "phone/phone_000",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5568480491638184
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5937449932098389
+    }
+  },
+  "phone/phone_008": {
+    "trial": "phone/phone_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.7389612197875977
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.4294246435165405
+    }
+  },
+  "piano/piano_032": {
+    "trial": "piano/piano_032",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.4422500133514404
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3709914684295654
+    }
+  },
+  "piano/piano_011": {
+    "trial": "piano/piano_011",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.658959150314331
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.555553913116455
+    }
+  },
+  "pig/pig_033": {
+    "trial": "pig/pig_033",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.4553656578063965
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.2094395160675049
+    }
+  },
+  "pig/pig_006": {
+    "trial": "pig/pig_006",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8223071098327637
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.8088951110839844
+    }
+  },
+  "pizza/pizza_020": {
+    "trial": "pizza/pizza_020",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.686546802520752
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.6598949432373047
+    }
+  },
+  "pizza/pizza_009": {
+    "trial": "pizza/pizza_009",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.913344144821167
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.4151411056518555
+    }
+  },
+  "plate/plate_040": {
+    "trial": "plate/plate_040",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3666369915008545
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.053072690963745
+    }
+  },
+  "plate/plate_032": {
+    "trial": "plate/plate_032",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.5024240016937256
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.1458585262298584
+    }
+  },
+  "radio/radio_039": {
+    "trial": "radio/radio_039",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1747100353240967
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.0005974769592285
+    }
+  },
+  "radio/radio_012": {
+    "trial": "radio/radio_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.549140453338623
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.5958914756774902
+    }
+  },
+  "robot/robot_019": {
+    "trial": "robot/robot_019",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.8422430753707886
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.36278972029685974
+    }
+  },
+  "robot/robot_047": {
+    "trial": "robot/robot_047",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1038107872009277
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.0137791633605957
+    }
+  },
+  "sandwich/sandwich_012": {
+    "trial": "sandwich/sandwich_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.768343687057495
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.7384536266326904
+    }
+  },
+  "sandwich/sandwich_002": {
+    "trial": "sandwich/sandwich_002",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8113906383514404
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.079214334487915
+    }
+  },
+  "saw/saw_018": {
+    "trial": "saw/saw_018",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": -0.5367259979248047
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": -0.6658763289451599
+    }
+  },
+  "saw/saw_017": {
+    "trial": "saw/saw_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.157536029815674
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.6093634963035583
+    }
+  },
+  "screwdriver/screwdriver_000": {
+    "trial": "screwdriver/screwdriver_000",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.958927869796753
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.666876792907715
+    }
+  },
+  "screwdriver/screwdriver_043": {
+    "trial": "screwdriver/screwdriver_043",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.832615613937378
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.1162209510803223
+    }
+  },
+  "shark/shark_010": {
+    "trial": "shark/shark_010",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.2617225646972656
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0371689796447754
+    }
+  },
+  "shark/shark_015": {
+    "trial": "shark/shark_015",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.8410305976867676
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.9776656627655029
+    }
+  },
+  "sheep/sheep_001": {
+    "trial": "sheep/sheep_001",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1352992057800293
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.943682074546814
+    }
+  },
+  "sheep/sheep_008": {
+    "trial": "sheep/sheep_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.9638867378234863
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3155784606933594
+    }
+  },
+  "shoe/shoe_025": {
+    "trial": "shoe/shoe_025",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.475099802017212
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.9298231601715088
+    }
+  },
+  "shoe/shoe_021": {
+    "trial": "shoe/shoe_021",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.097412109375
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.172034740447998
+    }
+  },
+  "sink/sink_008": {
+    "trial": "sink/sink_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.7845571041107178
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.1086413860321045
+    }
+  },
+  "sink/sink_001": {
+    "trial": "sink/sink_001",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.356100082397461
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.4185965061187744
+    }
+  },
+  "snake/snake_015": {
+    "trial": "snake/snake_015",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.0131256580352783
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.44422289729118347
+    }
+  },
+  "snake/snake_005": {
+    "trial": "snake/snake_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.3548877239227295
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.1868391036987305
+    }
+  },
+  "sofa/sofa_005": {
+    "trial": "sofa/sofa_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.996494770050049
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.8180179595947266
+    }
+  },
+  "sofa/sofa_050": {
+    "trial": "sofa/sofa_050",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.702437162399292
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.188579559326172
+    }
+  },
+  "spade/spade_032": {
+    "trial": "spade/spade_032",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.045600414276123
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.410923480987549
+    }
+  },
+  "spade/spade_004": {
+    "trial": "spade/spade_004",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.0145714282989502
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0260558128356934
+    }
+  },
+  "stove/stove_025": {
+    "trial": "stove/stove_025",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 4.031373977661133
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.285487413406372
+    }
+  },
+  "stove/stove_018": {
+    "trial": "stove/stove_018",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.7350802421569824
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.055864095687866
+    }
+  },
+  "submarine/submarine_004": {
+    "trial": "submarine/submarine_004",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.338216781616211
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.3281488418579102
+    }
+  },
+  "submarine/submarine_017": {
+    "trial": "submarine/submarine_017",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": -0.19820114970207214
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.2925927937030792
+    }
+  },
+  "toaster/toaster_015": {
+    "trial": "toaster/toaster_015",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.559288501739502
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.3478851318359375
+    }
+  },
+  "toaster/toaster_005": {
+    "trial": "toaster/toaster_005",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8326144218444824
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.065671682357788
+    }
+  },
+  "tractor/tractor_008": {
+    "trial": "tractor/tractor_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.8472466468811035
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0105435848236084
+    }
+  },
+  "tractor/tractor_015": {
+    "trial": "tractor/tractor_015",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.4997801780700684
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.852825164794922
+    }
+  },
+  "train/train_020": {
+    "trial": "train/train_020",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.6284730434417725
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.148575782775879
+    }
+  },
+  "train/train_014": {
+    "trial": "train/train_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 4.089573860168457
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.8146095275878906
+    }
+  },
+  "trashcan/trashcan_014": {
+    "trial": "trashcan/trashcan_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.607632637023926
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.0185980796813965
+    }
+  },
+  "trashcan/trashcan_035": {
+    "trial": "trashcan/trashcan_035",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.9422597885131836
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.237395763397217
+    }
+  },
+  "tree/tree_055": {
+    "trial": "tree/tree_055",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.0659980773925781
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.530228853225708
+    }
+  },
+  "tree/tree_053": {
+    "trial": "tree/tree_053",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.2205076217651367
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.23340174555778503
+    }
+  },
+  "truck/truck_012": {
+    "trial": "truck/truck_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.8428916931152344
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.6713225841522217
+    }
+  },
+  "truck/truck_019": {
+    "trial": "truck/truck_019",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.9401118755340576
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 3.4742705821990967
+    }
+  },
+  "tv/tv_012": {
+    "trial": "tv/tv_012",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.710357427597046
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.6305148601531982
+    }
+  },
+  "tv/tv_011": {
+    "trial": "tv/tv_011",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.91716468334198
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.5331634283065796
+    }
+  },
+  "violin/violin_014": {
+    "trial": "violin/violin_014",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.5752767324447632
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.7598847150802612
+    }
+  },
+  "violin/violin_016": {
+    "trial": "violin/violin_016",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 1.117302656173706
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 0.9276660680770874
+    }
+  },
+  "whale/whale_031": {
+    "trial": "whale/whale_031",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 2.391278028488159
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 2.707744598388672
+    }
+  },
+  "whale/whale_008": {
+    "trial": "whale/whale_008",
+    "dataset": "adv_toys4k",
+    "latent_alignment_without_oddity": {
+      "training_score": 3.1779181957244873
+    },
+    "latent_alignment_with_oddity": {
+      "training_score": 1.0535211563110352
+    }
+  }
+}

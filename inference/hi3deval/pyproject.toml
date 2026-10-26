@@ -1,0 +1,50 @@
+[project]
+name = "hi3deval-workspace"
+version = "0.1.0"
+description = "Hi3DEval inference dependencies"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # Core DL libraries
+    "torch==2.8.0",
+    "torchvision",
+    "accelerate<1",
+    
+    # Required by Hi3DEval model and inference scripts
+    "open_clip_torch",       # Missing: required by InternVideo2_CLIP
+    "omegaconf",             # Missing: required for config building
+    "einops==0.6.1",         # From original requirements
+    "einops-exts==0.0.4",    # From original requirements
+    "timm==0.9.12",          # Strict version from original requirements
+    "transformers==4.37.2",  # Strict version from original requirements
+    "decord; sys_platform == 'linux'",  # No macOS arm64 wheel
+    "opencv-python",
+    "huggingface_hub",
+    "imageio",
+    
+    # General utilities
+    "numpy<2.0.0",           # Pinned to <2.0 to avoid breaking older transformers/timm
+    "scipy",
+    "scikit-learn>=1.2.2",
+    "tqdm>=4.67.1",
+]
+
+#[[tool.uv.index]]
+#name = "pytorch-cu124"
+#url = "https://download.pytorch.org/whl/cu124"
+#explicit = true
+#
+#[[tool.uv.index]]
+#name = "pytorch-cpu"
+#url = "https://download.pytorch.org/whl/cpu"
+#explicit = true
+#
+#[tool.uv.sources]
+#torch = [
+#    { index = "pytorch-cu124", marker = "sys_platform == 'linux'" },
+#    { index = "pytorch-cpu", marker = "sys_platform == 'darwin'" },
+#]
+#torchvision = [
+#    { index = "pytorch-cu124", marker = "sys_platform == 'linux'" },
+#    { index = "pytorch-cpu", marker = "sys_platform == 'darwin'" },
+#]

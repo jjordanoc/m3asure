@@ -1,0 +1,2522 @@
+{
+  "airplane/airplane_007": {
+    "trial": "airplane/airplane_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "airplane/airplane_001": {
+    "trial": "airplane/airplane_001",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.5
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.5
+    }
+  },
+  "apple/apple_022": {
+    "trial": "apple/apple_022",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "apple/apple_019": {
+    "trial": "apple/apple_019",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "ball/ball_014": {
+    "trial": "ball/ball_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "ball/ball_008": {
+    "trial": "ball/ball_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "banana/banana_028": {
+    "trial": "banana/banana_028",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "banana/banana_003": {
+    "trial": "banana/banana_003",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "bicycle/bicycle_002": {
+    "trial": "bicycle/bicycle_002",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "bicycle/bicycle_010": {
+    "trial": "bicycle/bicycle_010",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "boat/boat_028": {
+    "trial": "boat/boat_028",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "boat/boat_003": {
+    "trial": "boat/boat_003",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "bottle/bottle_004": {
+    "trial": "bottle/bottle_004",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 1.0
+    }
+  },
+  "bottle/bottle_012": {
+    "trial": "bottle/bottle_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "bowl/bowl_007": {
+    "trial": "bowl/bowl_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "bowl/bowl_009": {
+    "trial": "bowl/bowl_009",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "bread/bread_032": {
+    "trial": "bread/bread_032",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "bread/bread_001": {
+    "trial": "bread/bread_001",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "bunny/bunny_019": {
+    "trial": "bunny/bunny_019",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 0.0
+    }
+  },
+  "bunny/bunny_006": {
+    "trial": "bunny/bunny_006",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "bus/bus_017": {
+    "trial": "bus/bus_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "bus/bus_013": {
+    "trial": "bus/bus_013",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "butterfly/butterfly_007": {
+    "trial": "butterfly/butterfly_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "butterfly/butterfly_014": {
+    "trial": "butterfly/butterfly_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.5
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.5
+    }
+  },
+  "cake/cake_037": {
+    "trial": "cake/cake_037",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "cake/cake_017": {
+    "trial": "cake/cake_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.5
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.5
+    }
+  },
+  "candy/candy_051": {
+    "trial": "candy/candy_051",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "candy/candy_055": {
+    "trial": "candy/candy_055",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "car/car_000": {
+    "trial": "car/car_000",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 1.0
+    }
+  },
+  "car/car_024": {
+    "trial": "car/car_024",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "cat/cat_021": {
+    "trial": "cat/cat_021",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "cat/cat_056": {
+    "trial": "cat/cat_056",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "cells_battery/cells_battery_021": {
+    "trial": "cells_battery/cells_battery_021",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "cells_battery/cells_battery_017": {
+    "trial": "cells_battery/cells_battery_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "chair/chair_042": {
+    "trial": "chair/chair_042",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "chair/chair_058": {
+    "trial": "chair/chair_058",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "chess_piece/chess_piece_026": {
+    "trial": "chess_piece/chess_piece_026",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "chess_piece/chess_piece_009": {
+    "trial": "chess_piece/chess_piece_009",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "chicken/chicken_002": {
+    "trial": "chicken/chicken_002",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "chicken/chicken_013": {
+    "trial": "chicken/chicken_013",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "closet/closet_001": {
+    "trial": "closet/closet_001",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "closet/closet_005": {
+    "trial": "closet/closet_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "coin/coin_022": {
+    "trial": "coin/coin_022",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "coin/coin_016": {
+    "trial": "coin/coin_016",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "cookie/cookie_027": {
+    "trial": "cookie/cookie_027",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "cookie/cookie_001": {
+    "trial": "cookie/cookie_001",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "cow/cow_017": {
+    "trial": "cow/cow_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "cow/cow_020": {
+    "trial": "cow/cow_020",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "crab/crab_009": {
+    "trial": "crab/crab_009",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "crab/crab_027": {
+    "trial": "crab/crab_027",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 1.0
+    }
+  },
+  "cup/cup_006": {
+    "trial": "cup/cup_006",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "cup/cup_036": {
+    "trial": "cup/cup_036",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "cupcake/cupcake_011": {
+    "trial": "cupcake/cupcake_011",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "cupcake/cupcake_022": {
+    "trial": "cupcake/cupcake_022",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "deer_moose/deer_moose_046": {
+    "trial": "deer_moose/deer_moose_046",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "deer_moose/deer_moose_024": {
+    "trial": "deer_moose/deer_moose_024",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "dinosaur/dinosaur_008": {
+    "trial": "dinosaur/dinosaur_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.9996646642684937
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.00033535013790242374
+    }
+  },
+  "dinosaur/dinosaur_005": {
+    "trial": "dinosaur/dinosaur_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "dog/dog_088": {
+    "trial": "dog/dog_088",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "dog/dog_031": {
+    "trial": "dog/dog_031",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "dolphin/dolphin_010": {
+    "trial": "dolphin/dolphin_010",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "dolphin/dolphin_002": {
+    "trial": "dolphin/dolphin_002",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "donut/donut_015": {
+    "trial": "donut/donut_015",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "donut/donut_007": {
+    "trial": "donut/donut_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "dragon/dragon_026": {
+    "trial": "dragon/dragon_026",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "dragon/dragon_018": {
+    "trial": "dragon/dragon_018",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "drum/drum_014": {
+    "trial": "drum/drum_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "drum/drum_020": {
+    "trial": "drum/drum_020",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "elephant/elephant_024": {
+    "trial": "elephant/elephant_024",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "elephant/elephant_011": {
+    "trial": "elephant/elephant_011",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "fan/fan_012": {
+    "trial": "fan/fan_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.5
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.5
+    }
+  },
+  "fan/fan_007": {
+    "trial": "fan/fan_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "fish/fish_017": {
+    "trial": "fish/fish_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "fish/fish_004": {
+    "trial": "fish/fish_004",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "flower/flower_039": {
+    "trial": "flower/flower_039",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "flower/flower_041": {
+    "trial": "flower/flower_041",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "fox/fox_011": {
+    "trial": "fox/fox_011",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "fox/fox_035": {
+    "trial": "fox/fox_035",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "fridge/fridge_023": {
+    "trial": "fridge/fridge_023",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "fridge/fridge_007": {
+    "trial": "fridge/fridge_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.5
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.5
+    }
+  },
+  "fries/fries_002": {
+    "trial": "fries/fries_002",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "fries/fries_007": {
+    "trial": "fries/fries_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "frog/frog_024": {
+    "trial": "frog/frog_024",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "frog/frog_017": {
+    "trial": "frog/frog_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "giraffe/giraffe_014": {
+    "trial": "giraffe/giraffe_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "giraffe/giraffe_010": {
+    "trial": "giraffe/giraffe_010",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "glass/glass_057": {
+    "trial": "glass/glass_057",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "glass/glass_047": {
+    "trial": "glass/glass_047",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "grapes/grapes_007": {
+    "trial": "grapes/grapes_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "grapes/grapes_010": {
+    "trial": "grapes/grapes_010",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "guitar/guitar_021": {
+    "trial": "guitar/guitar_021",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "guitar/guitar_050": {
+    "trial": "guitar/guitar_050",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "hamburger/hamburger_013": {
+    "trial": "hamburger/hamburger_013",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "hamburger/hamburger_000": {
+    "trial": "hamburger/hamburger_000",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "hammer/hammer_030": {
+    "trial": "hammer/hammer_030",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "hammer/hammer_004": {
+    "trial": "hammer/hammer_004",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "hat/hat_052": {
+    "trial": "hat/hat_052",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.5
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.5
+    }
+  },
+  "hat/hat_021": {
+    "trial": "hat/hat_021",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "helicopter/helicopter_012": {
+    "trial": "helicopter/helicopter_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "helicopter/helicopter_008": {
+    "trial": "helicopter/helicopter_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "helmet/helmet_002": {
+    "trial": "helmet/helmet_002",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "helmet/helmet_006": {
+    "trial": "helmet/helmet_006",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "horse/horse_021": {
+    "trial": "horse/horse_021",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "horse/horse_014": {
+    "trial": "horse/horse_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "ice_cream/ice_cream_032": {
+    "trial": "ice_cream/ice_cream_032",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "ice_cream/ice_cream_026": {
+    "trial": "ice_cream/ice_cream_026",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "key/key_044": {
+    "trial": "key/key_044",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "key/key_031": {
+    "trial": "key/key_031",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "keyboard/keyboard_012": {
+    "trial": "keyboard/keyboard_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "keyboard/keyboard_019": {
+    "trial": "keyboard/keyboard_019",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "knife/knife_008": {
+    "trial": "knife/knife_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "knife/knife_015": {
+    "trial": "knife/knife_015",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.266416662428502e-14
+    }
+  },
+  "ladder/ladder_051": {
+    "trial": "ladder/ladder_051",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "ladder/ladder_037": {
+    "trial": "ladder/ladder_037",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "laptop/laptop_035": {
+    "trial": "laptop/laptop_035",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "laptop/laptop_017": {
+    "trial": "laptop/laptop_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "light_bulb/light_bulb_017": {
+    "trial": "light_bulb/light_bulb_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "light_bulb/light_bulb_012": {
+    "trial": "light_bulb/light_bulb_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "lion/lion_007": {
+    "trial": "lion/lion_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "lion/lion_010": {
+    "trial": "lion/lion_010",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "lizard/lizard_012": {
+    "trial": "lizard/lizard_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "lizard/lizard_011": {
+    "trial": "lizard/lizard_011",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "marker/marker_008": {
+    "trial": "marker/marker_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "marker/marker_005": {
+    "trial": "marker/marker_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "microwave/microwave_016": {
+    "trial": "microwave/microwave_016",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "microwave/microwave_015": {
+    "trial": "microwave/microwave_015",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "monitor/monitor_005": {
+    "trial": "monitor/monitor_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "monitor/monitor_049": {
+    "trial": "monitor/monitor_049",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "monkey/monkey_001": {
+    "trial": "monkey/monkey_001",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "monkey/monkey_013": {
+    "trial": "monkey/monkey_013",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "motorcycle/motorcycle_003": {
+    "trial": "motorcycle/motorcycle_003",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "motorcycle/motorcycle_002": {
+    "trial": "motorcycle/motorcycle_002",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "mouse/mouse_020": {
+    "trial": "mouse/mouse_020",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "mouse/mouse_005": {
+    "trial": "mouse/mouse_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "mug/mug_088": {
+    "trial": "mug/mug_088",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "mug/mug_055": {
+    "trial": "mug/mug_055",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "mushroom/mushroom_020": {
+    "trial": "mushroom/mushroom_020",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "mushroom/mushroom_003": {
+    "trial": "mushroom/mushroom_003",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "octopus/octopus_012": {
+    "trial": "octopus/octopus_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "octopus/octopus_019": {
+    "trial": "octopus/octopus_019",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 0.0
+    }
+  },
+  "orange/orange_016": {
+    "trial": "orange/orange_016",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "orange/orange_018": {
+    "trial": "orange/orange_018",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.6038108185805577e-28
+    }
+  },
+  "panda/panda_011": {
+    "trial": "panda/panda_011",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "panda/panda_020": {
+    "trial": "panda/panda_020",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "pc_mouse/pc_mouse_013": {
+    "trial": "pc_mouse/pc_mouse_013",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pc_mouse/pc_mouse_000": {
+    "trial": "pc_mouse/pc_mouse_000",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "pear/pear_003": {
+    "trial": "pear/pear_003",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pear/pear_008": {
+    "trial": "pear/pear_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pen/pen_022": {
+    "trial": "pen/pen_022",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pen/pen_007": {
+    "trial": "pen/pen_007",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pencil/pencil_022": {
+    "trial": "pencil/pencil_022",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "pencil/pencil_031": {
+    "trial": "pencil/pencil_031",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "penguin/penguin_010": {
+    "trial": "penguin/penguin_010",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "penguin/penguin_029": {
+    "trial": "penguin/penguin_029",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "phone/phone_000": {
+    "trial": "phone/phone_000",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "phone/phone_008": {
+    "trial": "phone/phone_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "piano/piano_032": {
+    "trial": "piano/piano_032",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "piano/piano_011": {
+    "trial": "piano/piano_011",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pig/pig_033": {
+    "trial": "pig/pig_033",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pig/pig_006": {
+    "trial": "pig/pig_006",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pizza/pizza_020": {
+    "trial": "pizza/pizza_020",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "pizza/pizza_009": {
+    "trial": "pizza/pizza_009",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "plate/plate_040": {
+    "trial": "plate/plate_040",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "plate/plate_032": {
+    "trial": "plate/plate_032",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "radio/radio_039": {
+    "trial": "radio/radio_039",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "radio/radio_012": {
+    "trial": "radio/radio_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "robot/robot_019": {
+    "trial": "robot/robot_019",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "robot/robot_047": {
+    "trial": "robot/robot_047",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "sandwich/sandwich_012": {
+    "trial": "sandwich/sandwich_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "sandwich/sandwich_002": {
+    "trial": "sandwich/sandwich_002",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "saw/saw_018": {
+    "trial": "saw/saw_018",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "saw/saw_017": {
+    "trial": "saw/saw_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "screwdriver/screwdriver_000": {
+    "trial": "screwdriver/screwdriver_000",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "screwdriver/screwdriver_043": {
+    "trial": "screwdriver/screwdriver_043",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "shark/shark_010": {
+    "trial": "shark/shark_010",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "shark/shark_015": {
+    "trial": "shark/shark_015",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "sheep/sheep_001": {
+    "trial": "sheep/sheep_001",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "sheep/sheep_008": {
+    "trial": "sheep/sheep_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "shoe/shoe_025": {
+    "trial": "shoe/shoe_025",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "shoe/shoe_021": {
+    "trial": "shoe/shoe_021",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "sink/sink_008": {
+    "trial": "sink/sink_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "sink/sink_001": {
+    "trial": "sink/sink_001",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "snake/snake_015": {
+    "trial": "snake/snake_015",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "snake/snake_005": {
+    "trial": "snake/snake_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.6038108185805577e-28,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "sofa/sofa_005": {
+    "trial": "sofa/sofa_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "sofa/sofa_050": {
+    "trial": "sofa/sofa_050",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "spade/spade_032": {
+    "trial": "spade/spade_032",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "spade/spade_004": {
+    "trial": "spade/spade_004",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "stove/stove_025": {
+    "trial": "stove/stove_025",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "stove/stove_018": {
+    "trial": "stove/stove_018",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "submarine/submarine_004": {
+    "trial": "submarine/submarine_004",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "submarine/submarine_017": {
+    "trial": "submarine/submarine_017",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "toaster/toaster_015": {
+    "trial": "toaster/toaster_015",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "toaster/toaster_005": {
+    "trial": "toaster/toaster_005",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.5
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.5
+    }
+  },
+  "tractor/tractor_008": {
+    "trial": "tractor/tractor_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "tractor/tractor_015": {
+    "trial": "tractor/tractor_015",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "train/train_020": {
+    "trial": "train/train_020",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.266416662428502e-14,
+      "alignment_score": 1.0
+    }
+  },
+  "train/train_014": {
+    "trial": "train/train_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "trashcan/trashcan_014": {
+    "trial": "trashcan/trashcan_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "trashcan/trashcan_035": {
+    "trial": "trashcan/trashcan_035",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.5,
+      "alignment_score": 1.0
+    }
+  },
+  "tree/tree_055": {
+    "trial": "tree/tree_055",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "tree/tree_053": {
+    "trial": "tree/tree_053",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    }
+  },
+  "truck/truck_012": {
+    "trial": "truck/truck_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "truck/truck_019": {
+    "trial": "truck/truck_019",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "tv/tv_012": {
+    "trial": "tv/tv_012",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 1.0
+    }
+  },
+  "tv/tv_011": {
+    "trial": "tv/tv_011",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "violin/violin_014": {
+    "trial": "violin/violin_014",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "violin/violin_016": {
+    "trial": "violin/violin_016",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    }
+  },
+  "whale/whale_031": {
+    "trial": "whale/whale_031",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 1.266416662428502e-14,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  },
+  "whale/whale_008": {
+    "trial": "whale/whale_008",
+    "dataset": "adv_toys4k",
+    "3dgenscore_without_oddity": {
+      "geometry_score": 0.0,
+      "alignment_score": 0.0
+    },
+    "3dgenscore_with_oddity": {
+      "geometry_score": 1.0,
+      "alignment_score": 1.0
+    }
+  }
+}

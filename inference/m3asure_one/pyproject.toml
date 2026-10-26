@@ -1,0 +1,41 @@
+[project]
+name = "m3asure-probe"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+dependencies = [
+    "torch==2.8.0",
+    "torchvision==0.23.0", # Kept to match torch version, often needed by models like vggt
+    "torchinfo>=1.8.0",
+    "tqdm>=4.67.1",
+    "vggt",
+    "scipy>=1.17.1",
+    "scikit-learn>=1.8.0",
+    "requests>=2.33.1",
+    "matplotlib>=3.10.9",
+    "jaxtyping>=0.3.11",
+    "beartype>=0.22.9",
+]
+
+[tool.uv.sources]
+# Point this path to wherever the vggt directory is located relative to this file
+vggt = { path = "../../vggt" } 
+
+torch = [
+    { index = "pytorch-cu128", marker = "sys_platform == 'linux'" },
+    { index = "pytorch-cpu", marker = "sys_platform == 'darwin'" },
+]
+torchvision = [
+    { index = "pytorch-cu128", marker = "sys_platform == 'linux'" },
+    { index = "pytorch-cpu", marker = "sys_platform == 'darwin'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

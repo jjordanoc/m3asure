@@ -1,0 +1,66 @@
+[project]
+name = "workspace"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+# Adding vggt here ensures the root env installs all of vggt's dependencies
+dependencies = [
+    "ipykernel>=7.1.0",
+    "notebook>=7.0",
+    "torch==2.4.1",
+    "pytorch3d",
+    "torchvision",
+    "tqdm>=4.67.1",
+    "matplotlib>=3.10.8",
+    "scipy>=1.17.0",
+    "vggt",
+    "anyup",
+    "gradio>=5.17.1",
+    "plotly>=5.18.0",
+    "scikit-learn",
+    "transformers>=5.7.0",
+    "accelerate>=1.13.0",
+    "datasets>=4.8.5",
+    "tabulate>=0.10.0",
+    "torchinfo>=1.8.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "vggt",
+    "anyup",
+]
+
+[tool.uv.extra-build-dependencies]
+# FeatUp imports torch at build time but doesn't declare it as a build dep
+featup = ["torch==2.4.1"]
+pytorch3d = ["torch==2.4.1"]
+
+[project.optional-dependencies]
+met3r = ["met3r-workspace; sys_platform == 'linux'"]   # GPU-only, skip on macOS to avoid CUDA index conflict
+
+[tool.uv.sources]
+# This tells uv that the 'vggt' dependency is a local workspace member
+vggt = { path = "/workspace/m3asure/vggt" }
+anyup = { path = "/workspace/m3asure/anyup" }
+met3r-workspace = { path = "/workspace/m3asure/inference/met3r" }
+
+torch = [
+    { index = "pytorch-cu124", marker = "sys_platform == 'linux'" },
+    { index = "pytorch-cpu", marker = "sys_platform == 'darwin'" },
+]
+torchvision = [
+    { index = "pytorch-cu124", marker = "sys_platform == 'linux'" },
+    { index = "pytorch-cpu", marker = "sys_platform == 'darwin'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu124"
+url = "https://download.pytorch.org/whl/cu124"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

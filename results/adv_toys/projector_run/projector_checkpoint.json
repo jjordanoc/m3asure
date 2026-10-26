@@ -1,0 +1,2102 @@
+{
+  "airplane/airplane_007": {
+    "trial": "airplane/airplane_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7219680845737457
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7218537032604218
+    }
+  },
+  "airplane/airplane_001": {
+    "trial": "airplane/airplane_001",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6967726051807404
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.695740669965744
+    }
+  },
+  "apple/apple_022": {
+    "trial": "apple/apple_022",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7644490301609039
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7696138322353363
+    }
+  },
+  "apple/apple_019": {
+    "trial": "apple/apple_019",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7670362889766693
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6823034286499023
+    }
+  },
+  "ball/ball_014": {
+    "trial": "ball/ball_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7303522825241089
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7302437424659729
+    }
+  },
+  "ball/ball_008": {
+    "trial": "ball/ball_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7941191792488098
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6315402388572693
+    }
+  },
+  "banana/banana_028": {
+    "trial": "banana/banana_028",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.741828978061676
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7263880372047424
+    }
+  },
+  "banana/banana_003": {
+    "trial": "banana/banana_003",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6762040257453918
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.671395480632782
+    }
+  },
+  "bicycle/bicycle_002": {
+    "trial": "bicycle/bicycle_002",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6710573732852936
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6778541505336761
+    }
+  },
+  "bicycle/bicycle_010": {
+    "trial": "bicycle/bicycle_010",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6346386522054672
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6342392563819885
+    }
+  },
+  "boat/boat_028": {
+    "trial": "boat/boat_028",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7960845530033112
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7964461147785187
+    }
+  },
+  "boat/boat_003": {
+    "trial": "boat/boat_003",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7576959431171417
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7579984664916992
+    }
+  },
+  "bottle/bottle_004": {
+    "trial": "bottle/bottle_004",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8759500086307526
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.710821270942688
+    }
+  },
+  "bottle/bottle_012": {
+    "trial": "bottle/bottle_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8798229992389679
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.709317684173584
+    }
+  },
+  "bowl/bowl_007": {
+    "trial": "bowl/bowl_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7146475911140442
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.709980309009552
+    }
+  },
+  "bowl/bowl_009": {
+    "trial": "bowl/bowl_009",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6809750199317932
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6830286681652069
+    }
+  },
+  "bread/bread_032": {
+    "trial": "bread/bread_032",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6692606210708618
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.667351096868515
+    }
+  },
+  "bread/bread_001": {
+    "trial": "bread/bread_001",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8723433613777161
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8739583492279053
+    }
+  },
+  "bunny/bunny_019": {
+    "trial": "bunny/bunny_019",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6737724542617798
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6261939406394958
+    }
+  },
+  "bunny/bunny_006": {
+    "trial": "bunny/bunny_006",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7391245365142822
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7420777976512909
+    }
+  },
+  "bus/bus_017": {
+    "trial": "bus/bus_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7421945333480835
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7187397480010986
+    }
+  },
+  "bus/bus_013": {
+    "trial": "bus/bus_013",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7933624088764191
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.792822927236557
+    }
+  },
+  "butterfly/butterfly_007": {
+    "trial": "butterfly/butterfly_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.77146115899086
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6827380359172821
+    }
+  },
+  "butterfly/butterfly_014": {
+    "trial": "butterfly/butterfly_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6583854258060455
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5504362061619759
+    }
+  },
+  "cake/cake_037": {
+    "trial": "cake/cake_037",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7875364720821381
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6195810884237289
+    }
+  },
+  "cake/cake_017": {
+    "trial": "cake/cake_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6434963941574097
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6423203945159912
+    }
+  },
+  "candy/candy_051": {
+    "trial": "candy/candy_051",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8121468126773834
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.631007581949234
+    }
+  },
+  "candy/candy_055": {
+    "trial": "candy/candy_055",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7208948135375977
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7200181782245636
+    }
+  },
+  "car/car_000": {
+    "trial": "car/car_000",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.657983809709549
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.628398597240448
+    }
+  },
+  "car/car_024": {
+    "trial": "car/car_024",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5649144053459167
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4331875443458557
+    }
+  },
+  "cat/cat_021": {
+    "trial": "cat/cat_021",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.75920769572258
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5208616852760315
+    }
+  },
+  "cat/cat_056": {
+    "trial": "cat/cat_056",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6763181388378143
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5814026743173599
+    }
+  },
+  "cells_battery/cells_battery_021": {
+    "trial": "cells_battery/cells_battery_021",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8360605537891388
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.833970457315445
+    }
+  },
+  "cells_battery/cells_battery_017": {
+    "trial": "cells_battery/cells_battery_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8193153440952301
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8051152229309082
+    }
+  },
+  "chair/chair_042": {
+    "trial": "chair/chair_042",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7380312979221344
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6447640508413315
+    }
+  },
+  "chair/chair_058": {
+    "trial": "chair/chair_058",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7924413681030273
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7901431620121002
+    }
+  },
+  "chess_piece/chess_piece_026": {
+    "trial": "chess_piece/chess_piece_026",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.9282584488391876
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.929479569196701
+    }
+  },
+  "chess_piece/chess_piece_009": {
+    "trial": "chess_piece/chess_piece_009",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8891903460025787
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.890962153673172
+    }
+  },
+  "chicken/chicken_002": {
+    "trial": "chicken/chicken_002",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6511279940605164
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5390845686197281
+    }
+  },
+  "chicken/chicken_013": {
+    "trial": "chicken/chicken_013",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.44044138491153717
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5352990627288818
+    }
+  },
+  "closet/closet_001": {
+    "trial": "closet/closet_001",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.45510368049144745
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.489702507853508
+    }
+  },
+  "closet/closet_005": {
+    "trial": "closet/closet_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.4760020822286606
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5182401239871979
+    }
+  },
+  "coin/coin_022": {
+    "trial": "coin/coin_022",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.39321379363536835
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.2910763546824455
+    }
+  },
+  "coin/coin_016": {
+    "trial": "coin/coin_016",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5411968380212784
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5370844155550003
+    }
+  },
+  "cookie/cookie_027": {
+    "trial": "cookie/cookie_027",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8216645419597626
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7625771462917328
+    }
+  },
+  "cookie/cookie_001": {
+    "trial": "cookie/cookie_001",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8816449642181396
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8823365271091461
+    }
+  },
+  "cow/cow_017": {
+    "trial": "cow/cow_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6505806744098663
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.607005774974823
+    }
+  },
+  "cow/cow_020": {
+    "trial": "cow/cow_020",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7337118089199066
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5662274211645126
+    }
+  },
+  "crab/crab_009": {
+    "trial": "crab/crab_009",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7371119558811188
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6674900352954865
+    }
+  },
+  "crab/crab_027": {
+    "trial": "crab/crab_027",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6224068403244019
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.622678130865097
+    }
+  },
+  "cup/cup_006": {
+    "trial": "cup/cup_006",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7154525518417358
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6037462055683136
+    }
+  },
+  "cup/cup_036": {
+    "trial": "cup/cup_036",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6400187611579895
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6137776076793671
+    }
+  },
+  "cupcake/cupcake_011": {
+    "trial": "cupcake/cupcake_011",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7574771344661713
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4519716650247574
+    }
+  },
+  "cupcake/cupcake_022": {
+    "trial": "cupcake/cupcake_022",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7224797010421753
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6962186694145203
+    }
+  },
+  "deer_moose/deer_moose_046": {
+    "trial": "deer_moose/deer_moose_046",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6899560391902924
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6884434819221497
+    }
+  },
+  "deer_moose/deer_moose_024": {
+    "trial": "deer_moose/deer_moose_024",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6035560667514801
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6030716001987457
+    }
+  },
+  "dinosaur/dinosaur_008": {
+    "trial": "dinosaur/dinosaur_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6058534681797028
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.604162722826004
+    }
+  },
+  "dinosaur/dinosaur_005": {
+    "trial": "dinosaur/dinosaur_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6919141411781311
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6907670497894287
+    }
+  },
+  "dog/dog_088": {
+    "trial": "dog/dog_088",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7859863936901093
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6178717315196991
+    }
+  },
+  "dog/dog_031": {
+    "trial": "dog/dog_031",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5475045740604401
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.48247769474983215
+    }
+  },
+  "dolphin/dolphin_010": {
+    "trial": "dolphin/dolphin_010",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5490775108337402
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6105900406837463
+    }
+  },
+  "dolphin/dolphin_002": {
+    "trial": "dolphin/dolphin_002",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6414978802204132
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6566163599491119
+    }
+  },
+  "donut/donut_015": {
+    "trial": "donut/donut_015",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8270391821861267
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8274870812892914
+    }
+  },
+  "donut/donut_007": {
+    "trial": "donut/donut_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8293271064758301
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7003518044948578
+    }
+  },
+  "dragon/dragon_026": {
+    "trial": "dragon/dragon_026",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6029393374919891
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6289200782775879
+    }
+  },
+  "dragon/dragon_018": {
+    "trial": "dragon/dragon_018",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7041332721710205
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7004673182964325
+    }
+  },
+  "drum/drum_014": {
+    "trial": "drum/drum_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8731842935085297
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8763643801212311
+    }
+  },
+  "drum/drum_020": {
+    "trial": "drum/drum_020",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8509562313556671
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6210449039936066
+    }
+  },
+  "elephant/elephant_024": {
+    "trial": "elephant/elephant_024",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6573174893856049
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5610507130622864
+    }
+  },
+  "elephant/elephant_011": {
+    "trial": "elephant/elephant_011",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5404448211193085
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5403252989053726
+    }
+  },
+  "fan/fan_012": {
+    "trial": "fan/fan_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8998417854309082
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.9139122068881989
+    }
+  },
+  "fan/fan_007": {
+    "trial": "fan/fan_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8855326473712921
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7139234244823456
+    }
+  },
+  "fish/fish_017": {
+    "trial": "fish/fish_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6958768367767334
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5124922394752502
+    }
+  },
+  "fish/fish_004": {
+    "trial": "fish/fish_004",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6623358130455017
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6675866544246674
+    }
+  },
+  "flower/flower_039": {
+    "trial": "flower/flower_039",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7989858984947205
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7987525761127472
+    }
+  },
+  "flower/flower_041": {
+    "trial": "flower/flower_041",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.838064968585968
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8322844207286835
+    }
+  },
+  "fox/fox_011": {
+    "trial": "fox/fox_011",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6445893049240112
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.644519031047821
+    }
+  },
+  "fox/fox_035": {
+    "trial": "fox/fox_035",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7343104779720306
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5670873820781708
+    }
+  },
+  "fridge/fridge_023": {
+    "trial": "fridge/fridge_023",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5784108936786652
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6202361583709717
+    }
+  },
+  "fridge/fridge_007": {
+    "trial": "fridge/fridge_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6634863615036011
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.640637218952179
+    }
+  },
+  "fries/fries_002": {
+    "trial": "fries/fries_002",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.615981787443161
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6172489523887634
+    }
+  },
+  "fries/fries_007": {
+    "trial": "fries/fries_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6597068905830383
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6030373871326447
+    }
+  },
+  "frog/frog_024": {
+    "trial": "frog/frog_024",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6816896200180054
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.679431825876236
+    }
+  },
+  "frog/frog_017": {
+    "trial": "frog/frog_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7127045392990112
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.714121401309967
+    }
+  },
+  "giraffe/giraffe_014": {
+    "trial": "giraffe/giraffe_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7146010100841522
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4941265285015106
+    }
+  },
+  "giraffe/giraffe_010": {
+    "trial": "giraffe/giraffe_010",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7427091896533966
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.742201566696167
+    }
+  },
+  "glass/glass_057": {
+    "trial": "glass/glass_057",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.9099268913269043
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7673095166683197
+    }
+  },
+  "glass/glass_047": {
+    "trial": "glass/glass_047",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.9125260412693024
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8963605165481567
+    }
+  },
+  "grapes/grapes_007": {
+    "trial": "grapes/grapes_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8688554465770721
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8271482884883881
+    }
+  },
+  "grapes/grapes_010": {
+    "trial": "grapes/grapes_010",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8195220232009888
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8056483268737793
+    }
+  },
+  "guitar/guitar_021": {
+    "trial": "guitar/guitar_021",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7268074154853821
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7157442569732666
+    }
+  },
+  "guitar/guitar_050": {
+    "trial": "guitar/guitar_050",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6066827327013016
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.798693835735321
+    }
+  },
+  "hamburger/hamburger_013": {
+    "trial": "hamburger/hamburger_013",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8186123073101044
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6940220296382904
+    }
+  },
+  "hamburger/hamburger_000": {
+    "trial": "hamburger/hamburger_000",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8267619013786316
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6949991583824158
+    }
+  },
+  "hammer/hammer_030": {
+    "trial": "hammer/hammer_030",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7512025833129883
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7875680029392242
+    }
+  },
+  "hammer/hammer_004": {
+    "trial": "hammer/hammer_004",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7580067217350006
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6609952747821808
+    }
+  },
+  "hat/hat_052": {
+    "trial": "hat/hat_052",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8237406015396118
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6030748784542084
+    }
+  },
+  "hat/hat_021": {
+    "trial": "hat/hat_021",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7039077281951904
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7031126022338867
+    }
+  },
+  "helicopter/helicopter_012": {
+    "trial": "helicopter/helicopter_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.694448322057724
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6939879953861237
+    }
+  },
+  "helicopter/helicopter_008": {
+    "trial": "helicopter/helicopter_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7612665295600891
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7390628159046173
+    }
+  },
+  "helmet/helmet_002": {
+    "trial": "helmet/helmet_002",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6172846555709839
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6179539412260056
+    }
+  },
+  "helmet/helmet_006": {
+    "trial": "helmet/helmet_006",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6958681046962738
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6971724629402161
+    }
+  },
+  "horse/horse_021": {
+    "trial": "horse/horse_021",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5631810426712036
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5305236577987671
+    }
+  },
+  "horse/horse_014": {
+    "trial": "horse/horse_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.522822305560112
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4737819880247116
+    }
+  },
+  "ice_cream/ice_cream_032": {
+    "trial": "ice_cream/ice_cream_032",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.810128778219223
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6904963254928589
+    }
+  },
+  "ice_cream/ice_cream_026": {
+    "trial": "ice_cream/ice_cream_026",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8249627649784088
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8228165805339813
+    }
+  },
+  "key/key_044": {
+    "trial": "key/key_044",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5333968549966812
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5657046735286713
+    }
+  },
+  "key/key_031": {
+    "trial": "key/key_031",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6818130612373352
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5742765218019485
+    }
+  },
+  "keyboard/keyboard_012": {
+    "trial": "keyboard/keyboard_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.872650533914566
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8730031251907349
+    }
+  },
+  "keyboard/keyboard_019": {
+    "trial": "keyboard/keyboard_019",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.9066894054412842
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.9058379530906677
+    }
+  },
+  "knife/knife_008": {
+    "trial": "knife/knife_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5922532081604004
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5239473357796669
+    }
+  },
+  "knife/knife_015": {
+    "trial": "knife/knife_015",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6306864470243454
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6145021021366119
+    }
+  },
+  "ladder/ladder_051": {
+    "trial": "ladder/ladder_051",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7011209428310394
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6433938294649124
+    }
+  },
+  "ladder/ladder_037": {
+    "trial": "ladder/ladder_037",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7527713179588318
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.659369632601738
+    }
+  },
+  "laptop/laptop_035": {
+    "trial": "laptop/laptop_035",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5765561908483505
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5770759880542755
+    }
+  },
+  "laptop/laptop_017": {
+    "trial": "laptop/laptop_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5470109432935715
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5459269434213638
+    }
+  },
+  "light_bulb/light_bulb_017": {
+    "trial": "light_bulb/light_bulb_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7658607959747314
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7695722877979279
+    }
+  },
+  "light_bulb/light_bulb_012": {
+    "trial": "light_bulb/light_bulb_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8444394767284393
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8490123450756073
+    }
+  },
+  "lion/lion_007": {
+    "trial": "lion/lion_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7563551068305969
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7553422152996063
+    }
+  },
+  "lion/lion_010": {
+    "trial": "lion/lion_010",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6808701753616333
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6821589767932892
+    }
+  },
+  "lizard/lizard_012": {
+    "trial": "lizard/lizard_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7768514752388
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7008408010005951
+    }
+  },
+  "lizard/lizard_011": {
+    "trial": "lizard/lizard_011",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7944752871990204
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7939728200435638
+    }
+  },
+  "marker/marker_008": {
+    "trial": "marker/marker_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7977107465267181
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7317927479743958
+    }
+  },
+  "marker/marker_005": {
+    "trial": "marker/marker_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8852879405021667
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8866739869117737
+    }
+  },
+  "microwave/microwave_016": {
+    "trial": "microwave/microwave_016",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.48519179224967957
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.43420764803886414
+    }
+  },
+  "microwave/microwave_015": {
+    "trial": "microwave/microwave_015",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.634385347366333
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6305687129497528
+    }
+  },
+  "monitor/monitor_005": {
+    "trial": "monitor/monitor_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5319599062204361
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5587849467992783
+    }
+  },
+  "monitor/monitor_049": {
+    "trial": "monitor/monitor_049",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.3755570650100708
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.37117142975330353
+    }
+  },
+  "monkey/monkey_001": {
+    "trial": "monkey/monkey_001",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6541028022766113
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.42994704842567444
+    }
+  },
+  "monkey/monkey_013": {
+    "trial": "monkey/monkey_013",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6981409788131714
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5614948868751526
+    }
+  },
+  "motorcycle/motorcycle_003": {
+    "trial": "motorcycle/motorcycle_003",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6314703226089478
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6206826269626617
+    }
+  },
+  "motorcycle/motorcycle_002": {
+    "trial": "motorcycle/motorcycle_002",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5112988501787186
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4606657773256302
+    }
+  },
+  "mouse/mouse_020": {
+    "trial": "mouse/mouse_020",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7431698739528656
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7432789206504822
+    }
+  },
+  "mouse/mouse_005": {
+    "trial": "mouse/mouse_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.632809579372406
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5375140607357025
+    }
+  },
+  "mug/mug_088": {
+    "trial": "mug/mug_088",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6714490354061127
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.513653576374054
+    }
+  },
+  "mug/mug_055": {
+    "trial": "mug/mug_055",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6964872777462006
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6465381681919098
+    }
+  },
+  "mushroom/mushroom_020": {
+    "trial": "mushroom/mushroom_020",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.731699138879776
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5642571449279785
+    }
+  },
+  "mushroom/mushroom_003": {
+    "trial": "mushroom/mushroom_003",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7326321303844452
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.524431973695755
+    }
+  },
+  "octopus/octopus_012": {
+    "trial": "octopus/octopus_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8197558522224426
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7316049933433533
+    }
+  },
+  "octopus/octopus_019": {
+    "trial": "octopus/octopus_019",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8436554372310638
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8135531544685364
+    }
+  },
+  "orange/orange_016": {
+    "trial": "orange/orange_016",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.750828742980957
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7508130371570587
+    }
+  },
+  "orange/orange_018": {
+    "trial": "orange/orange_018",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7472689747810364
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5960405468940735
+    }
+  },
+  "panda/panda_011": {
+    "trial": "panda/panda_011",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7188399434089661
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5163962543010712
+    }
+  },
+  "panda/panda_020": {
+    "trial": "panda/panda_020",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7666039168834686
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7442318797111511
+    }
+  },
+  "pc_mouse/pc_mouse_013": {
+    "trial": "pc_mouse/pc_mouse_013",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6339694261550903
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6354727745056152
+    }
+  },
+  "pc_mouse/pc_mouse_000": {
+    "trial": "pc_mouse/pc_mouse_000",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7739069759845734
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6922142505645752
+    }
+  },
+  "pear/pear_003": {
+    "trial": "pear/pear_003",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7997459769248962
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7549408078193665
+    }
+  },
+  "pear/pear_008": {
+    "trial": "pear/pear_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8202524185180664
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8274237811565399
+    }
+  },
+  "pen/pen_022": {
+    "trial": "pen/pen_022",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8669638931751251
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7592268288135529
+    }
+  },
+  "pen/pen_007": {
+    "trial": "pen/pen_007",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.9483212232589722
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8323200345039368
+    }
+  },
+  "pencil/pencil_022": {
+    "trial": "pencil/pencil_022",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.9046752154827118
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.837828129529953
+    }
+  },
+  "pencil/pencil_031": {
+    "trial": "pencil/pencil_031",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8349667489528656
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8698177933692932
+    }
+  },
+  "penguin/penguin_010": {
+    "trial": "penguin/penguin_010",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5139935910701752
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5692860186100006
+    }
+  },
+  "penguin/penguin_029": {
+    "trial": "penguin/penguin_029",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.757506400346756
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7570820152759552
+    }
+  },
+  "phone/phone_000": {
+    "trial": "phone/phone_000",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5043169856071472
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5005629360675812
+    }
+  },
+  "phone/phone_008": {
+    "trial": "phone/phone_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.47067466378211975
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.2963892072439194
+    }
+  },
+  "piano/piano_032": {
+    "trial": "piano/piano_032",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7836204767227173
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6529178321361542
+    }
+  },
+  "piano/piano_011": {
+    "trial": "piano/piano_011",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5476303696632385
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.43028494715690613
+    }
+  },
+  "pig/pig_033": {
+    "trial": "pig/pig_033",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6325916945934296
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6363787651062012
+    }
+  },
+  "pig/pig_006": {
+    "trial": "pig/pig_006",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6435682773590088
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6387546062469482
+    }
+  },
+  "pizza/pizza_020": {
+    "trial": "pizza/pizza_020",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8844594657421112
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7713154852390289
+    }
+  },
+  "pizza/pizza_009": {
+    "trial": "pizza/pizza_009",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8532951474189758
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8536763787269592
+    }
+  },
+  "plate/plate_040": {
+    "trial": "plate/plate_040",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.898817390203476
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8161833584308624
+    }
+  },
+  "plate/plate_032": {
+    "trial": "plate/plate_032",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.829635739326477
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7760708630084991
+    }
+  },
+  "radio/radio_039": {
+    "trial": "radio/radio_039",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5748993158340454
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5769037902355194
+    }
+  },
+  "radio/radio_012": {
+    "trial": "radio/radio_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5833856463432312
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4527343809604645
+    }
+  },
+  "robot/robot_019": {
+    "trial": "robot/robot_019",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7821421027183533
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7825160622596741
+    }
+  },
+  "robot/robot_047": {
+    "trial": "robot/robot_047",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7205127477645874
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7217617630958557
+    }
+  },
+  "sandwich/sandwich_012": {
+    "trial": "sandwich/sandwich_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7364417612552643
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5317312180995941
+    }
+  },
+  "sandwich/sandwich_002": {
+    "trial": "sandwich/sandwich_002",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7670498192310333
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6008191704750061
+    }
+  },
+  "saw/saw_018": {
+    "trial": "saw/saw_018",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.627406969666481
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6273645609617233
+    }
+  },
+  "saw/saw_017": {
+    "trial": "saw/saw_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.4991896450519562
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5116409063339233
+    }
+  },
+  "screwdriver/screwdriver_000": {
+    "trial": "screwdriver/screwdriver_000",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6664243340492249
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6515225172042847
+    }
+  },
+  "screwdriver/screwdriver_043": {
+    "trial": "screwdriver/screwdriver_043",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.74730384349823
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6776627600193024
+    }
+  },
+  "shark/shark_010": {
+    "trial": "shark/shark_010",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6818799078464508
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.58729387819767
+    }
+  },
+  "shark/shark_015": {
+    "trial": "shark/shark_015",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6638150811195374
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6861860454082489
+    }
+  },
+  "sheep/sheep_001": {
+    "trial": "sheep/sheep_001",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6223012804985046
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5073580890893936
+    }
+  },
+  "sheep/sheep_008": {
+    "trial": "sheep/sheep_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6317955851554871
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5288382172584534
+    }
+  },
+  "shoe/shoe_025": {
+    "trial": "shoe/shoe_025",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7404866218566895
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7426910698413849
+    }
+  },
+  "shoe/shoe_021": {
+    "trial": "shoe/shoe_021",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6371472477912903
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6154747009277344
+    }
+  },
+  "sink/sink_008": {
+    "trial": "sink/sink_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7828742563724518
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6728036999702454
+    }
+  },
+  "sink/sink_001": {
+    "trial": "sink/sink_001",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7821844816207886
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6576301604509354
+    }
+  },
+  "snake/snake_015": {
+    "trial": "snake/snake_015",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8441367447376251
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6528600007295609
+    }
+  },
+  "snake/snake_005": {
+    "trial": "snake/snake_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7813540697097778
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7839368879795074
+    }
+  },
+  "sofa/sofa_005": {
+    "trial": "sofa/sofa_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7519221603870392
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7528797388076782
+    }
+  },
+  "sofa/sofa_050": {
+    "trial": "sofa/sofa_050",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6561338901519775
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6884779036045074
+    }
+  },
+  "spade/spade_032": {
+    "trial": "spade/spade_032",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6887056231498718
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6918558776378632
+    }
+  },
+  "spade/spade_004": {
+    "trial": "spade/spade_004",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7272278666496277
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7302955389022827
+    }
+  },
+  "stove/stove_025": {
+    "trial": "stove/stove_025",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.49182237684726715
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.38900960981845856
+    }
+  },
+  "stove/stove_018": {
+    "trial": "stove/stove_018",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6373756527900696
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.405362069606781
+    }
+  },
+  "submarine/submarine_004": {
+    "trial": "submarine/submarine_004",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6978541612625122
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6959843039512634
+    }
+  },
+  "submarine/submarine_017": {
+    "trial": "submarine/submarine_017",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7485300004482269
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7280454039573669
+    }
+  },
+  "toaster/toaster_015": {
+    "trial": "toaster/toaster_015",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7296395897865295
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6340475827455521
+    }
+  },
+  "toaster/toaster_005": {
+    "trial": "toaster/toaster_005",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7341752350330353
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6419584453105927
+    }
+  },
+  "tractor/tractor_008": {
+    "trial": "tractor/tractor_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6853217482566833
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6850584149360657
+    }
+  },
+  "tractor/tractor_015": {
+    "trial": "tractor/tractor_015",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6467213332653046
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5593402236700058
+    }
+  },
+  "train/train_020": {
+    "trial": "train/train_020",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7287415564060211
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5142357498407364
+    }
+  },
+  "train/train_014": {
+    "trial": "train/train_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6382379233837128
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6415226459503174
+    }
+  },
+  "trashcan/trashcan_014": {
+    "trial": "trashcan/trashcan_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6618848741054535
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4284564256668091
+    }
+  },
+  "trashcan/trashcan_035": {
+    "trial": "trashcan/trashcan_035",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8330093026161194
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.7507626414299011
+    }
+  },
+  "tree/tree_055": {
+    "trial": "tree/tree_055",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7943130135536194
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.732873946428299
+    }
+  },
+  "tree/tree_053": {
+    "trial": "tree/tree_053",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.817490965127945
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.777194082736969
+    }
+  },
+  "truck/truck_012": {
+    "trial": "truck/truck_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6534581184387207
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6329682767391205
+    }
+  },
+  "truck/truck_019": {
+    "trial": "truck/truck_019",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5133737176656723
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4343954920768738
+    }
+  },
+  "tv/tv_012": {
+    "trial": "tv/tv_012",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.5867883563041687
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5852362513542175
+    }
+  },
+  "tv/tv_011": {
+    "trial": "tv/tv_011",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.48896850645542145
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.4841471090912819
+    }
+  },
+  "violin/violin_014": {
+    "trial": "violin/violin_014",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.8175170123577118
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.8159891366958618
+    }
+  },
+  "violin/violin_016": {
+    "trial": "violin/violin_016",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.7286359071731567
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6978510916233063
+    }
+  },
+  "whale/whale_031": {
+    "trial": "whale/whale_031",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.6125568449497223
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.5428586006164551
+    }
+  },
+  "whale/whale_008": {
+    "trial": "whale/whale_008",
+    "dataset": "adv_toys4k",
+    "projector_without_oddity": {
+      "long_range_score": 0.622065544128418
+    },
+    "projector_with_oddity": {
+      "long_range_score": 0.6295514404773712
+    }
+  }
+}
