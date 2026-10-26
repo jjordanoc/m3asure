@@ -1,6 +1,5 @@
 ## Getting started
-Due to the double-blind anonymity policies regarding external links, we kindly ask reviewers to download dependencies
-manually. 
+Download probe checkpoint at https://drive.google.com/file/d/14bCFY-R3b6TpbSRWqhiu9TUYIAprbOFS/view?usp=sharing
 
 Please clone the standard public repositories for the following third-party models and place them in this repository's
 root directory:
